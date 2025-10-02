@@ -1,0 +1,7003 @@
+[
+  {
+    "movie_title": "No Exit (Huis clos)",
+    "genre": "Action",
+    "release_date": "2/17/2012",
+    "director": "Dorothea Hercock",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "Space Jam",
+    "genre": "Drama",
+    "release_date": "5/28/2017",
+    "director": "Delmar Gitsham",
+    "rating": 5.3
+  },
+  {
+    "movie_title": "Restraint",
+    "genre": "Comedy",
+    "release_date": "3/6/2009",
+    "director": "Finlay Kulvear",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "My Geisha",
+    "genre": "Action",
+    "release_date": "10/30/2002",
+    "director": "Muriel Overpool",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "Dragon Fist (Long quan)",
+    "genre": "Sci-Fi",
+    "release_date": "5/1/2014",
+    "director": "Liva Gelletly",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "Four Daughters",
+    "genre": "Sci-Fi",
+    "release_date": "3/6/2018",
+    "director": "Bryana Ducker",
+    "rating": 3.4
+  },
+  {
+    "movie_title": "Parallax View, The",
+    "genre": "Comedy",
+    "release_date": "1/2/2010",
+    "director": "Emalia Gabbitas",
+    "rating": 9.2
+  },
+  {
+    "movie_title": "A Summer in St. Tropez",
+    "genre": "Sci-Fi",
+    "release_date": "8/25/2006",
+    "director": "Cloe Kleingrub",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Blindman",
+    "genre": "Comedy",
+    "release_date": "9/25/2019",
+    "director": "Aurel Radmore",
+    "rating": 3.3
+  },
+  {
+    "movie_title": "Enter the Ninja (a.k.a. Ninja I)",
+    "genre": "Comedy",
+    "release_date": "2/12/2006",
+    "director": "Port Monery",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "Leather Jacket Love Story",
+    "genre": "Comedy",
+    "release_date": "10/9/2021",
+    "director": "Sallyann Cornelisse",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "Headquarters (Päämaja) ",
+    "genre": "Sci-Fi",
+    "release_date": "10/19/2004",
+    "director": "Virgil Oxenden",
+    "rating": 8.5
+  },
+  {
+    "movie_title": "Last Stop for Paul",
+    "genre": "Drama",
+    "release_date": "9/18/2011",
+    "director": "Amber Millberg",
+    "rating": 6.6
+  },
+  {
+    "movie_title": "The Legend of Bloody Jack",
+    "genre": "Action",
+    "release_date": "1/24/2003",
+    "director": "Zarah Cuningham",
+    "rating": 7.9
+  },
+  {
+    "movie_title": "Gentlemen Don't Eat Poets (Grotesque, The)",
+    "genre": "Horror",
+    "release_date": "2/1/2013",
+    "director": "Rafe Vanichev",
+    "rating": 2.1
+  },
+  {
+    "movie_title": "Zarafa",
+    "genre": "Sci-Fi",
+    "release_date": "1/11/2006",
+    "director": "Georges Castletine",
+    "rating": 3.8
+  },
+  {
+    "movie_title": "Khumba",
+    "genre": "Action",
+    "release_date": "2/8/2002",
+    "director": "Cass Trevain",
+    "rating": 9.8
+  },
+  {
+    "movie_title": "National Lampoon's Senior Trip",
+    "genre": "Horror",
+    "release_date": "9/5/2003",
+    "director": "Derrik Frudd",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "Wordplay",
+    "genre": "Action",
+    "release_date": "10/20/2014",
+    "director": "Rheba Pele",
+    "rating": 6.4
+  },
+  {
+    "movie_title": "Why Are the Bells Ringing, Mitica? (a.k.a. Carnival Scenes) (De ce trag clopotele, Mitica?)",
+    "genre": "Sci-Fi",
+    "release_date": "11/3/2014",
+    "director": "Englebert Ducroe",
+    "rating": 9.5
+  },
+  {
+    "movie_title": "Oversimplification of Her Beauty, An",
+    "genre": "Sci-Fi",
+    "release_date": "4/14/2019",
+    "director": "Vivyanne Arnatt",
+    "rating": 4.8
+  },
+  {
+    "movie_title": "Fright Night",
+    "genre": "Action",
+    "release_date": "12/19/2009",
+    "director": "Malorie Monteith",
+    "rating": 6.3
+  },
+  {
+    "movie_title": "Edge of Heaven, The (Auf der anderen Seite)",
+    "genre": "Comedy",
+    "release_date": "12/25/2021",
+    "director": "Salvidor Barrass",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "Asphalt Playground (La cité rose)",
+    "genre": "Sci-Fi",
+    "release_date": "4/5/2003",
+    "director": "Leonidas Tunno",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "Cowboy Way, The",
+    "genre": "Action",
+    "release_date": "5/9/2005",
+    "director": "Brett Yezafovich",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "The Borderlands",
+    "genre": "Action",
+    "release_date": "12/10/2003",
+    "director": "Roberta Skaife",
+    "rating": 7.9
+  },
+  {
+    "movie_title": "Dark Shadows",
+    "genre": "Drama",
+    "release_date": "11/8/2006",
+    "director": "Jaquith Deverille",
+    "rating": 5.0
+  },
+  {
+    "movie_title": "Happening, The",
+    "genre": "Action",
+    "release_date": "4/19/2015",
+    "director": "Weider Labbey",
+    "rating": 3.8
+  },
+  {
+    "movie_title": "Sniper 2",
+    "genre": "Horror",
+    "release_date": "12/14/2014",
+    "director": "Leanor Cluett",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Prinsessa (Starring Maja)",
+    "genre": "Drama",
+    "release_date": "9/21/2021",
+    "director": "Burty Bontine",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "Where's Marlowe?",
+    "genre": "Horror",
+    "release_date": "4/12/2017",
+    "director": "Sacha Whiteley",
+    "rating": 3.1
+  },
+  {
+    "movie_title": "Pudana Last of the Line (Sukunsa viimeinen)",
+    "genre": "Horror",
+    "release_date": "10/7/2000",
+    "director": "Viv Haythorn",
+    "rating": 3.1
+  },
+  {
+    "movie_title": "Here and There (Tamo i ovde)",
+    "genre": "Action",
+    "release_date": "10/2/2019",
+    "director": "Miner Azema",
+    "rating": 3.4
+  },
+  {
+    "movie_title": "Cover Girl",
+    "genre": "Action",
+    "release_date": "4/22/2022",
+    "director": "Marsh Byres",
+    "rating": 1.5
+  },
+  {
+    "movie_title": "Dead Meat",
+    "genre": "Comedy",
+    "release_date": "6/5/2013",
+    "director": "Clevey MacRury",
+    "rating": 1.3
+  },
+  {
+    "movie_title": "Palo Alto",
+    "genre": "Drama",
+    "release_date": "8/28/2014",
+    "director": "Renelle Stutely",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "Stay Alive",
+    "genre": "Comedy",
+    "release_date": "12/1/2015",
+    "director": "Ly Gipson",
+    "rating": 5.0
+  },
+  {
+    "movie_title": "Adventures in Babysitting",
+    "genre": "Sci-Fi",
+    "release_date": "6/29/2006",
+    "director": "Averil Erickssen",
+    "rating": 8.3
+  },
+  {
+    "movie_title": "Cheech & Chong's Next Movie",
+    "genre": "Comedy",
+    "release_date": "12/10/2020",
+    "director": "Shepard Franscioni",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Woman Under the Influence, A",
+    "genre": "Sci-Fi",
+    "release_date": "1/15/2014",
+    "director": "Mitchael Waples",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "Force of Evil",
+    "genre": "Comedy",
+    "release_date": "11/15/2007",
+    "director": "Lek Spooner",
+    "rating": 8.5
+  },
+  {
+    "movie_title": "12 Years a Slave",
+    "genre": "Comedy",
+    "release_date": "5/14/2015",
+    "director": "Micky Gorry",
+    "rating": 5.9
+  },
+  {
+    "movie_title": "Massacre Canyon",
+    "genre": "Drama",
+    "release_date": "9/4/2016",
+    "director": "Frederico Gemeau",
+    "rating": 8.4
+  },
+  {
+    "movie_title": "Visiteurs du soir, Les (Devil's Envoys, The)",
+    "genre": "Comedy",
+    "release_date": "4/9/2012",
+    "director": "Kimbell Badsworth",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "Apostle Peter and The Last Supper",
+    "genre": "Horror",
+    "release_date": "3/26/2003",
+    "director": "Angie Smaling",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "Impossible, The (Imposible, Lo)",
+    "genre": "Drama",
+    "release_date": "10/18/2010",
+    "director": "Paulina De la Yglesia",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "Boy Named Charlie Brown, A",
+    "genre": "Sci-Fi",
+    "release_date": "7/11/2017",
+    "director": "Hi Martine",
+    "rating": 4.6
+  },
+  {
+    "movie_title": "Skyscraper Souls",
+    "genre": "Horror",
+    "release_date": "4/24/2014",
+    "director": "Jenifer Simkovich",
+    "rating": 4.1
+  },
+  {
+    "movie_title": "Safe House",
+    "genre": "Action",
+    "release_date": "7/8/2007",
+    "director": "Elvira Coonan",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Sphere",
+    "genre": "Comedy",
+    "release_date": "4/7/2017",
+    "director": "Helen-elizabeth Law",
+    "rating": 3.3
+  },
+  {
+    "movie_title": "Boys Are Back, The",
+    "genre": "Drama",
+    "release_date": "11/15/2020",
+    "director": "Rori Ferre",
+    "rating": 2.0
+  },
+  {
+    "movie_title": "Sukiyaki Western Django",
+    "genre": "Comedy",
+    "release_date": "1/9/2006",
+    "director": "Issy Raspel",
+    "rating": 8.4
+  },
+  {
+    "movie_title": "Colonel Chabert, Le",
+    "genre": "Action",
+    "release_date": "1/23/2011",
+    "director": "Dillon Kentwell",
+    "rating": 10.0
+  },
+  {
+    "movie_title": "Executioners from Shaolin",
+    "genre": "Comedy",
+    "release_date": "5/11/2014",
+    "director": "Ikey Stubbings",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "Replacements, The",
+    "genre": "Horror",
+    "release_date": "7/9/2016",
+    "director": "Kory Lundberg",
+    "rating": 10.0
+  },
+  {
+    "movie_title": "Whom the Gods Wish to Destroy (Nibelungen, Teil 1: Siegfried, Die)",
+    "genre": "Action",
+    "release_date": "1/24/2005",
+    "director": "Chad Incogna",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "The Butterfly Effect",
+    "genre": "Comedy",
+    "release_date": "10/17/2012",
+    "director": "Myrvyn Tollett",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Bonnie and Clyde",
+    "genre": "Horror",
+    "release_date": "5/30/2022",
+    "director": "Kylie Demaid",
+    "rating": 7.1
+  },
+  {
+    "movie_title": "Our Life (La nostra vita)",
+    "genre": "Comedy",
+    "release_date": "11/12/2017",
+    "director": "Sue Fogt",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "Other Woman, The",
+    "genre": "Sci-Fi",
+    "release_date": "5/23/2022",
+    "director": "Myrtice Limpertz",
+    "rating": 5.7
+  },
+  {
+    "movie_title": "Aelita: The Queen of Mars (Aelita)",
+    "genre": "Action",
+    "release_date": "11/23/2011",
+    "director": "Townie Braidman",
+    "rating": 3.1
+  },
+  {
+    "movie_title": "LUV",
+    "genre": "Action",
+    "release_date": "2/23/2014",
+    "director": "Andee Frankis",
+    "rating": 1.9
+  },
+  {
+    "movie_title": "Cinema Verite",
+    "genre": "Horror",
+    "release_date": "10/27/2015",
+    "director": "Keri Gabbitis",
+    "rating": 9.7
+  },
+  {
+    "movie_title": "Tsunami: Caught on Camera",
+    "genre": "Sci-Fi",
+    "release_date": "11/15/2008",
+    "director": "Darice Caren",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "Crazy/Beautiful",
+    "genre": "Drama",
+    "release_date": "11/22/2009",
+    "director": "Reinhard Salvador",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "Nana",
+    "genre": "Comedy",
+    "release_date": "1/2/2012",
+    "director": "Powell Fairpo",
+    "rating": 8.4
+  },
+  {
+    "movie_title": "House of Yes, The",
+    "genre": "Horror",
+    "release_date": "11/9/2001",
+    "director": "Nikki Dmych",
+    "rating": 9.4
+  },
+  {
+    "movie_title": "Past Midnight",
+    "genre": "Action",
+    "release_date": "12/1/2022",
+    "director": "Emelen Corp",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Final Fantasy VII: Advent Children",
+    "genre": "Comedy",
+    "release_date": "4/14/2006",
+    "director": "Sela Jiggle",
+    "rating": 9.7
+  },
+  {
+    "movie_title": "The Cabin in the Cotton",
+    "genre": "Drama",
+    "release_date": "5/22/2017",
+    "director": "Garfield Watling",
+    "rating": 8.9
+  },
+  {
+    "movie_title": "Confessions of a Pop Performer",
+    "genre": "Action",
+    "release_date": "7/18/2015",
+    "director": "Luella Cattrall",
+    "rating": 7.3
+  },
+  {
+    "movie_title": "Stepford Wives, The",
+    "genre": "Comedy",
+    "release_date": "7/30/2002",
+    "director": "Woodman De la Perrelle",
+    "rating": 2.7
+  },
+  {
+    "movie_title": "Second Skin (Segunda Piel)",
+    "genre": "Horror",
+    "release_date": "11/9/2011",
+    "director": "Joyce Fayne",
+    "rating": 9.7
+  },
+  {
+    "movie_title": "BloodRayne",
+    "genre": "Action",
+    "release_date": "3/9/2000",
+    "director": "Mireielle Moulden",
+    "rating": 5.6
+  },
+  {
+    "movie_title": "Black Sunday",
+    "genre": "Drama",
+    "release_date": "12/14/2022",
+    "director": "Marlo Saill",
+    "rating": 8.5
+  },
+  {
+    "movie_title": "Space Odyssey: Voyage to the Planets",
+    "genre": "Sci-Fi",
+    "release_date": "6/14/2011",
+    "director": "Danie Crudginton",
+    "rating": 3.4
+  },
+  {
+    "movie_title": "White House Down",
+    "genre": "Drama",
+    "release_date": "4/29/2006",
+    "director": "Harold Titmarsh",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "Love and Pigeons",
+    "genre": "Drama",
+    "release_date": "7/10/2010",
+    "director": "Ellynn Fuentes",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "V for Vendetta",
+    "genre": "Action",
+    "release_date": "7/1/2004",
+    "director": "Ferrell Klemmt",
+    "rating": 5.7
+  },
+  {
+    "movie_title": "In This Our Life",
+    "genre": "Sci-Fi",
+    "release_date": "10/11/2003",
+    "director": "Felicity Gallyon",
+    "rating": 1.7
+  },
+  {
+    "movie_title": "Stormheart",
+    "genre": "Sci-Fi",
+    "release_date": "6/29/2015",
+    "director": "Neda Gilbody",
+    "rating": 3.1
+  },
+  {
+    "movie_title": "Tristan & Isolde",
+    "genre": "Comedy",
+    "release_date": "6/17/2004",
+    "director": "Artus Dinsey",
+    "rating": 1.9
+  },
+  {
+    "movie_title": "Grand Dukes, The (Les grands ducs)",
+    "genre": "Horror",
+    "release_date": "10/16/2012",
+    "director": "Raf Quarles",
+    "rating": 1.5
+  },
+  {
+    "movie_title": "Marrying Man, The (Too Hot to Handle)",
+    "genre": "Drama",
+    "release_date": "3/31/2015",
+    "director": "Nicolina Pallin",
+    "rating": 6.8
+  },
+  {
+    "movie_title": "Thirteen Women",
+    "genre": "Sci-Fi",
+    "release_date": "1/31/2014",
+    "director": "Chadwick Noble",
+    "rating": 8.1
+  },
+  {
+    "movie_title": "Family Tree (L'arbre et la forêt)",
+    "genre": "Comedy",
+    "release_date": "8/7/2000",
+    "director": "Ado Pashby",
+    "rating": 7.9
+  },
+  {
+    "movie_title": "Boy Meets Girl",
+    "genre": "Drama",
+    "release_date": "11/5/2005",
+    "director": "Archibald Banane",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "Before Sunset",
+    "genre": "Horror",
+    "release_date": "4/22/2003",
+    "director": "Sharl Knewstubb",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "One Crazy Summer",
+    "genre": "Sci-Fi",
+    "release_date": "6/16/2006",
+    "director": "Kala Truwert",
+    "rating": 5.4
+  },
+  {
+    "movie_title": "Barbara",
+    "genre": "Drama",
+    "release_date": "2/20/2022",
+    "director": "Caspar Haldene",
+    "rating": 2.1
+  },
+  {
+    "movie_title": "Faust",
+    "genre": "Horror",
+    "release_date": "5/22/2016",
+    "director": "Sabine Louedey",
+    "rating": 2.5
+  },
+  {
+    "movie_title": "Seduction of Joe Tynan, The",
+    "genre": "Sci-Fi",
+    "release_date": "6/9/2000",
+    "director": "Quinlan Lowrance",
+    "rating": 4.6
+  },
+  {
+    "movie_title": "Charlie Chan in the Secret Service",
+    "genre": "Action",
+    "release_date": "12/1/2015",
+    "director": "Faith Regis",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "Machine, The",
+    "genre": "Comedy",
+    "release_date": "7/5/2011",
+    "director": "Lazar Bernardeau",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "Scarlet Empress, The",
+    "genre": "Sci-Fi",
+    "release_date": "11/21/2014",
+    "director": "Karlan Attyeo",
+    "rating": 6.9
+  },
+  {
+    "movie_title": "Man on the Moon",
+    "genre": "Comedy",
+    "release_date": "4/12/2003",
+    "director": "Susanna Hollington",
+    "rating": 7.1
+  },
+  {
+    "movie_title": "White Heat",
+    "genre": "Horror",
+    "release_date": "4/1/2011",
+    "director": "Tybi Corbally",
+    "rating": 7.2
+  },
+  {
+    "movie_title": "Almost Famous",
+    "genre": "Drama",
+    "release_date": "8/13/2015",
+    "director": "Vlad Feechum",
+    "rating": 8.9
+  },
+  {
+    "movie_title": "Manchurian Candidate, The",
+    "genre": "Comedy",
+    "release_date": "3/31/2021",
+    "director": "Blondy Justun",
+    "rating": 9.9
+  },
+  {
+    "movie_title": "Gothika",
+    "genre": "Comedy",
+    "release_date": "2/5/2003",
+    "director": "Stinky Jinkinson",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "Lilya 4-Ever (Lilja 4-ever)",
+    "genre": "Drama",
+    "release_date": "8/8/2006",
+    "director": "Traver Mallion",
+    "rating": 4.8
+  },
+  {
+    "movie_title": "Kambakkht Ishq (Incredible Love)",
+    "genre": "Comedy",
+    "release_date": "12/13/2018",
+    "director": "Krishnah Groome",
+    "rating": 9.8
+  },
+  {
+    "movie_title": "Steel",
+    "genre": "Sci-Fi",
+    "release_date": "4/10/2004",
+    "director": "Krissy Gregson",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "Blackbird",
+    "genre": "Sci-Fi",
+    "release_date": "1/4/2017",
+    "director": "Ernest Denty",
+    "rating": 5.6
+  },
+  {
+    "movie_title": "How to Eat Fried Worms",
+    "genre": "Action",
+    "release_date": "10/22/2001",
+    "director": "Elsbeth Paramor",
+    "rating": 9.4
+  },
+  {
+    "movie_title": "Naturally Native",
+    "genre": "Horror",
+    "release_date": "8/12/2010",
+    "director": "Blanche Hatto",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "Radiohead: Meeting People Is Easy",
+    "genre": "Action",
+    "release_date": "12/3/2018",
+    "director": "Lorant Gingell",
+    "rating": 9.4
+  },
+  {
+    "movie_title": "Target",
+    "genre": "Comedy",
+    "release_date": "11/6/2012",
+    "director": "Anabal Campagne",
+    "rating": 2.8
+  },
+  {
+    "movie_title": "Beyond the Law (Beyond the Law - Blue)",
+    "genre": "Sci-Fi",
+    "release_date": "10/31/2014",
+    "director": "Hannie Melville",
+    "rating": 8.2
+  },
+  {
+    "movie_title": "Rat Savior, The (Izbavitelj)",
+    "genre": "Action",
+    "release_date": "9/28/2017",
+    "director": "Sutherlan Carwithim",
+    "rating": 7.7
+  },
+  {
+    "movie_title": "Firehouse Dog",
+    "genre": "Action",
+    "release_date": "4/21/2004",
+    "director": "Ludovico Ivankin",
+    "rating": 8.7
+  },
+  {
+    "movie_title": "Red 2",
+    "genre": "Comedy",
+    "release_date": "11/8/2007",
+    "director": "Jeth Linnit",
+    "rating": 7.9
+  },
+  {
+    "movie_title": "American Winter",
+    "genre": "Drama",
+    "release_date": "7/13/2019",
+    "director": "Valdemar Ribbens",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "River Called Titas, A (Titash Ekti Nadir Naam)",
+    "genre": "Comedy",
+    "release_date": "1/7/2022",
+    "director": "Anatollo Afonso",
+    "rating": 9.7
+  },
+  {
+    "movie_title": "Chorus, The (Choristes, Les)",
+    "genre": "Comedy",
+    "release_date": "12/22/2018",
+    "director": "Amie McKinless",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "Deceivers, The",
+    "genre": "Action",
+    "release_date": "7/20/2005",
+    "director": "Guido Lantuffe",
+    "rating": 8.2
+  },
+  {
+    "movie_title": "Red Dawn",
+    "genre": "Sci-Fi",
+    "release_date": "12/23/2017",
+    "director": "Charleen Broker",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "Carbon Copy",
+    "genre": "Sci-Fi",
+    "release_date": "12/4/2006",
+    "director": "Berri Crosio",
+    "rating": 9.2
+  },
+  {
+    "movie_title": "Mr. Magoo",
+    "genre": "Drama",
+    "release_date": "12/12/2005",
+    "director": "Lanie Farge",
+    "rating": 4.2
+  },
+  {
+    "movie_title": "Army of Crime (L'armée du crime)",
+    "genre": "Horror",
+    "release_date": "2/6/2001",
+    "director": "Cilka D'Aguanno",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "Theodora Goes Wild",
+    "genre": "Action",
+    "release_date": "10/19/2002",
+    "director": "Johannes Scullin",
+    "rating": 5.4
+  },
+  {
+    "movie_title": "Stockholm East (Stockholm Östra)",
+    "genre": "Drama",
+    "release_date": "10/11/2002",
+    "director": "Tobie Grimsley",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "Fangs of the Living Dead (Malenka)",
+    "genre": "Horror",
+    "release_date": "8/30/2006",
+    "director": "Jo ann Petchell",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "Ritz, The",
+    "genre": "Drama",
+    "release_date": "1/21/2001",
+    "director": "Geneva O'Regan",
+    "rating": 1.4
+  },
+  {
+    "movie_title": "Boogie (Boogie, el aceitoso)",
+    "genre": "Action",
+    "release_date": "1/18/2007",
+    "director": "Mirelle de Pinna",
+    "rating": 7.7
+  },
+  {
+    "movie_title": "You, the Living (Du levande)",
+    "genre": "Action",
+    "release_date": "1/30/2019",
+    "director": "Tim Del Monte",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Human Tornado, The",
+    "genre": "Action",
+    "release_date": "8/1/2014",
+    "director": "Horten Rubanenko",
+    "rating": 2.7
+  },
+  {
+    "movie_title": "Control",
+    "genre": "Sci-Fi",
+    "release_date": "8/30/2018",
+    "director": "Fanny Keneforde",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "Amelia",
+    "genre": "Action",
+    "release_date": "7/3/2021",
+    "director": "Theo Matson",
+    "rating": 3.3
+  },
+  {
+    "movie_title": "Key, The",
+    "genre": "Horror",
+    "release_date": "7/4/2000",
+    "director": "Euell Volett",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "Guns of Navarone, The",
+    "genre": "Horror",
+    "release_date": "12/25/2012",
+    "director": "Bronson Menico",
+    "rating": 5.2
+  },
+  {
+    "movie_title": "Dampfnudelblues",
+    "genre": "Action",
+    "release_date": "5/9/2012",
+    "director": "Tom Reye",
+    "rating": 7.4
+  },
+  {
+    "movie_title": "Chastity Bites",
+    "genre": "Horror",
+    "release_date": "7/9/2020",
+    "director": "Nata Musterd",
+    "rating": 1.5
+  },
+  {
+    "movie_title": "Guendalina",
+    "genre": "Horror",
+    "release_date": "11/9/2006",
+    "director": "Nariko Garthland",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "Thor: The Dark World",
+    "genre": "Action",
+    "release_date": "10/6/2021",
+    "director": "Ulberto Desson",
+    "rating": 5.2
+  },
+  {
+    "movie_title": "The Beautiful Story",
+    "genre": "Drama",
+    "release_date": "4/30/2011",
+    "director": "Leora Glaisner",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "Some Kind of Hero",
+    "genre": "Sci-Fi",
+    "release_date": "9/22/2000",
+    "director": "Freeland MacColl",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "Ideal Husband, An",
+    "genre": "Drama",
+    "release_date": "10/11/2003",
+    "director": "Pepita Harral",
+    "rating": 3.3
+  },
+  {
+    "movie_title": "Frenchmen (Le coeur des hommes)",
+    "genre": "Sci-Fi",
+    "release_date": "1/28/2019",
+    "director": "Franklin Ovid",
+    "rating": 8.2
+  },
+  {
+    "movie_title": "Touch of Class, A",
+    "genre": "Drama",
+    "release_date": "6/1/2002",
+    "director": "Genevieve Coggill",
+    "rating": 5.2
+  },
+  {
+    "movie_title": "Princess Yang Kwei Fei (Yôkihi)",
+    "genre": "Horror",
+    "release_date": "10/4/2003",
+    "director": "Charlot Rawsen",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "Stranger in Me, The (Das Fremde in mir)",
+    "genre": "Horror",
+    "release_date": "9/8/2015",
+    "director": "Lucio McMorran",
+    "rating": 4.0
+  },
+  {
+    "movie_title": "Bartok the Magnificent",
+    "genre": "Comedy",
+    "release_date": "12/24/2011",
+    "director": "Godfree Vittel",
+    "rating": 1.3
+  },
+  {
+    "movie_title": "Warlock",
+    "genre": "Horror",
+    "release_date": "2/15/2000",
+    "director": "Lorette Boord",
+    "rating": 6.8
+  },
+  {
+    "movie_title": "Last Minute, The",
+    "genre": "Horror",
+    "release_date": "9/6/2001",
+    "director": "Aundrea Scotts",
+    "rating": 4.7
+  },
+  {
+    "movie_title": "Barbarosa",
+    "genre": "Sci-Fi",
+    "release_date": "2/19/2005",
+    "director": "Eudora Ashbey",
+    "rating": 7.8
+  },
+  {
+    "movie_title": "General Died at Dawn, The",
+    "genre": "Comedy",
+    "release_date": "3/20/2016",
+    "director": "Kippy Eastbrook",
+    "rating": 6.3
+  },
+  {
+    "movie_title": "Over Your Dead Body",
+    "genre": "Action",
+    "release_date": "7/20/2008",
+    "director": "Kimmie Stobbs",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+    "genre": "Comedy",
+    "release_date": "4/25/2021",
+    "director": "Turner Sacher",
+    "rating": 8.4
+  },
+  {
+    "movie_title": "Eagle Has Landed, The",
+    "genre": "Sci-Fi",
+    "release_date": "10/6/2002",
+    "director": "Wolfie Eitter",
+    "rating": 6.1
+  },
+  {
+    "movie_title": "Still Walking (Aruitemo aruitemo)",
+    "genre": "Horror",
+    "release_date": "7/3/2003",
+    "director": "Krystyna Arniz",
+    "rating": 8.1
+  },
+  {
+    "movie_title": "Executioner, The (Massacre Mafia Style)",
+    "genre": "Sci-Fi",
+    "release_date": "11/21/2020",
+    "director": "Adriano Martijn",
+    "rating": 2.8
+  },
+  {
+    "movie_title": "Hearts of Darkness: A Filmmakers Apocalypse",
+    "genre": "Drama",
+    "release_date": "11/30/2011",
+    "director": "Barbie Girardetti",
+    "rating": 8.2
+  },
+  {
+    "movie_title": "Wonderland",
+    "genre": "Drama",
+    "release_date": "6/15/2013",
+    "director": "Tiphani Dohms",
+    "rating": 4.1
+  },
+  {
+    "movie_title": "Sleeping Beauty",
+    "genre": "Comedy",
+    "release_date": "2/20/2016",
+    "director": "Cristen Gaule",
+    "rating": 8.4
+  },
+  {
+    "movie_title": "Casanova",
+    "genre": "Drama",
+    "release_date": "9/20/2001",
+    "director": "Ebeneser Leinster",
+    "rating": 3.0
+  },
+  {
+    "movie_title": "Androcles and the Lion",
+    "genre": "Action",
+    "release_date": "9/29/2002",
+    "director": "Gunilla Russell",
+    "rating": 1.9
+  },
+  {
+    "movie_title": "Beautiful Life, A",
+    "genre": "Action",
+    "release_date": "7/30/2016",
+    "director": "Janet Fieller",
+    "rating": 7.7
+  },
+  {
+    "movie_title": "Every Stewardess Goes to Heaven (Todas las azafatas van al cielo)",
+    "genre": "Sci-Fi",
+    "release_date": "12/5/2005",
+    "director": "Rudy McKern",
+    "rating": 1.2
+  },
+  {
+    "movie_title": "All the Boys Love Mandy Lane",
+    "genre": "Action",
+    "release_date": "9/15/2016",
+    "director": "Jacklyn Summerscales",
+    "rating": 4.6
+  },
+  {
+    "movie_title": "Men in the City (Männerherzen)",
+    "genre": "Action",
+    "release_date": "2/21/2004",
+    "director": "Renado Witz",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Butcher's Wife, The",
+    "genre": "Comedy",
+    "release_date": "10/21/2014",
+    "director": "Jacobo Gracewood",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Man I Love, The",
+    "genre": "Horror",
+    "release_date": "1/28/2002",
+    "director": "Dniren Rulf",
+    "rating": 5.4
+  },
+  {
+    "movie_title": "Daltry Calhoun",
+    "genre": "Drama",
+    "release_date": "2/9/2004",
+    "director": "Pippo Moncreif",
+    "rating": 8.1
+  },
+  {
+    "movie_title": "Big Easy, The",
+    "genre": "Sci-Fi",
+    "release_date": "6/25/2008",
+    "director": "Curry McIlmorie",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "Dreamgirls",
+    "genre": "Drama",
+    "release_date": "10/20/2022",
+    "director": "Eduino Beatens",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Business of Being Born, The",
+    "genre": "Horror",
+    "release_date": "11/17/2016",
+    "director": "Annissa Dorran",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "Hotline",
+    "genre": "Sci-Fi",
+    "release_date": "8/3/2018",
+    "director": "April Kelland",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Man Facing Southeast (Hombre mirando al sudeste)",
+    "genre": "Drama",
+    "release_date": "12/23/2022",
+    "director": "Petr Gurg",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "Hour of the Gun",
+    "genre": "Comedy",
+    "release_date": "8/25/2022",
+    "director": "Glori Dewhirst",
+    "rating": 2.0
+  },
+  {
+    "movie_title": "Playing with Love (Puppy Love) (Maladolescenza)",
+    "genre": "Action",
+    "release_date": "12/2/2007",
+    "director": "Broddie Beushaw",
+    "rating": 1.2
+  },
+  {
+    "movie_title": "Split Second",
+    "genre": "Action",
+    "release_date": "4/29/2013",
+    "director": "Janine O'Brian",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "Zelig",
+    "genre": "Horror",
+    "release_date": "10/3/2011",
+    "director": "Tadeas Woofinden",
+    "rating": 1.2
+  },
+  {
+    "movie_title": "Love Loves Coincidences",
+    "genre": "Action",
+    "release_date": "7/21/2018",
+    "director": "Blinnie Preene",
+    "rating": 7.3
+  },
+  {
+    "movie_title": "Paying the Price: Killing the Children of Iraq",
+    "genre": "Horror",
+    "release_date": "8/14/2007",
+    "director": "Alyce Guntrip",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "Jennifer's Body",
+    "genre": "Sci-Fi",
+    "release_date": "8/20/2012",
+    "director": "Freddi Stampe",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "Mind Game",
+    "genre": "Sci-Fi",
+    "release_date": "4/5/2007",
+    "director": "Huntlee Kimbury",
+    "rating": 6.1
+  },
+  {
+    "movie_title": "Home",
+    "genre": "Drama",
+    "release_date": "6/8/2017",
+    "director": "Claudie Toquet",
+    "rating": 2.6
+  },
+  {
+    "movie_title": "Tickle in the Heart, A",
+    "genre": "Comedy",
+    "release_date": "1/18/2002",
+    "director": "Clayborn Renshaw",
+    "rating": 1.3
+  },
+  {
+    "movie_title": "Icicle Thief, The (Ladri di saponette)",
+    "genre": "Horror",
+    "release_date": "3/3/2005",
+    "director": "Merrilee Rowlson",
+    "rating": 5.9
+  },
+  {
+    "movie_title": "Cardcaptor Sakura: The Sealed Card",
+    "genre": "Horror",
+    "release_date": "3/2/2004",
+    "director": "Jeanelle Philipet",
+    "rating": 9.1
+  },
+  {
+    "movie_title": "Evening with Kevin Smith 2: Evening Harder, An",
+    "genre": "Sci-Fi",
+    "release_date": "11/10/2015",
+    "director": "Hastie Sleeny",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "Sexual Life of the Belgians, The (Vie sexuelle des Belges 1950-1978, La)",
+    "genre": "Horror",
+    "release_date": "4/1/2002",
+    "director": "Tresa Gibbens",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "Romantic Comedy",
+    "genre": "Horror",
+    "release_date": "5/15/2020",
+    "director": "Davie Shakesby",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "True Legend (Su Qi-Er)",
+    "genre": "Horror",
+    "release_date": "8/2/2020",
+    "director": "Kara Surby",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "I Give It a Year",
+    "genre": "Sci-Fi",
+    "release_date": "1/18/2017",
+    "director": "Coral Saltrese",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "Edmond",
+    "genre": "Drama",
+    "release_date": "6/10/2000",
+    "director": "Dania MacKellen",
+    "rating": 5.2
+  },
+  {
+    "movie_title": "Seven Girlfriends",
+    "genre": "Horror",
+    "release_date": "6/9/2001",
+    "director": "Davidson Gussin",
+    "rating": 1.4
+  },
+  {
+    "movie_title": "Power of Nightmares, The: The Rise of the Politics of Fear",
+    "genre": "Action",
+    "release_date": "10/12/2012",
+    "director": "Aloysia Jerrand",
+    "rating": 9.0
+  },
+  {
+    "movie_title": "Tortilla Soup",
+    "genre": "Action",
+    "release_date": "8/29/2009",
+    "director": "Roxana Grundon",
+    "rating": 7.1
+  },
+  {
+    "movie_title": "Dead Calm",
+    "genre": "Horror",
+    "release_date": "3/29/2006",
+    "director": "Victor Perrins",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "Bloody Child, The",
+    "genre": "Action",
+    "release_date": "12/31/2003",
+    "director": "Bogey Scully",
+    "rating": 7.2
+  },
+  {
+    "movie_title": "Rules of Attraction, The",
+    "genre": "Action",
+    "release_date": "4/28/2010",
+    "director": "Adella Greggor",
+    "rating": 6.9
+  },
+  {
+    "movie_title": "Police Story (Ging chaat goo si)",
+    "genre": "Comedy",
+    "release_date": "6/18/2009",
+    "director": "Rebbecca Lardeux",
+    "rating": 1.9
+  },
+  {
+    "movie_title": "Promises",
+    "genre": "Sci-Fi",
+    "release_date": "11/24/2010",
+    "director": "Estele Hun",
+    "rating": 1.7
+  },
+  {
+    "movie_title": "Falling Up",
+    "genre": "Horror",
+    "release_date": "10/10/2010",
+    "director": "Vittorio Parnell",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "Great K & A Train Robbery, The",
+    "genre": "Sci-Fi",
+    "release_date": "2/4/2007",
+    "director": "Kristoffer Hayley",
+    "rating": 3.2
+  },
+  {
+    "movie_title": "Seems Like Old Times",
+    "genre": "Drama",
+    "release_date": "9/11/2016",
+    "director": "Yorgo Knight",
+    "rating": 8.9
+  },
+  {
+    "movie_title": "Rage: Carrie 2, The",
+    "genre": "Horror",
+    "release_date": "5/26/2011",
+    "director": "Alleen Swinley",
+    "rating": 1.2
+  },
+  {
+    "movie_title": "Ethan Mao",
+    "genre": "Horror",
+    "release_date": "11/3/2000",
+    "director": "Fonzie Pikesley",
+    "rating": 9.7
+  },
+  {
+    "movie_title": "Peter Pan",
+    "genre": "Action",
+    "release_date": "12/20/2015",
+    "director": "Cornelia Heys",
+    "rating": 2.1
+  },
+  {
+    "movie_title": "Zizek!",
+    "genre": "Comedy",
+    "release_date": "2/10/2003",
+    "director": "Sergent De Biaggi",
+    "rating": 3.6
+  },
+  {
+    "movie_title": "Savages",
+    "genre": "Horror",
+    "release_date": "7/10/2000",
+    "director": "Leisha Whorton",
+    "rating": 1.5
+  },
+  {
+    "movie_title": "U2 3D",
+    "genre": "Drama",
+    "release_date": "7/14/2017",
+    "director": "Hyacinthia Sogg",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "Bomb It",
+    "genre": "Action",
+    "release_date": "11/6/2022",
+    "director": "Lorrayne Philippard",
+    "rating": 5.6
+  },
+  {
+    "movie_title": "Wallace and Gromit in 'A Matter of Loaf and Death'",
+    "genre": "Horror",
+    "release_date": "1/8/2002",
+    "director": "Fabian Bonnett",
+    "rating": 3.3
+  },
+  {
+    "movie_title": "Stranded: I've Come from a Plane That Crashed on the Mountains",
+    "genre": "Action",
+    "release_date": "11/10/2016",
+    "director": "Carroll Eblein",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "My Last Five Girlfriends",
+    "genre": "Comedy",
+    "release_date": "9/30/2016",
+    "director": "Rockey Corhard",
+    "rating": 6.5
+  },
+  {
+    "movie_title": "Grumpier Old Men",
+    "genre": "Comedy",
+    "release_date": "8/4/2007",
+    "director": "Norina Ivory",
+    "rating": 6.3
+  },
+  {
+    "movie_title": "Trouble in Mind",
+    "genre": "Sci-Fi",
+    "release_date": "9/16/2014",
+    "director": "Tripp Epinoy",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "Exit",
+    "genre": "Drama",
+    "release_date": "7/2/2012",
+    "director": "Hall Mordin",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "Remember the Night",
+    "genre": "Sci-Fi",
+    "release_date": "4/3/2017",
+    "director": "Gerry Porte",
+    "rating": 4.8
+  },
+  {
+    "movie_title": "Three-Step Dance",
+    "genre": "Sci-Fi",
+    "release_date": "2/21/2003",
+    "director": "Isadore Hannigan",
+    "rating": 5.8
+  },
+  {
+    "movie_title": "Princess",
+    "genre": "Horror",
+    "release_date": "5/21/2010",
+    "director": "Gerry Addenbrooke",
+    "rating": 5.8
+  },
+  {
+    "movie_title": "Anita",
+    "genre": "Sci-Fi",
+    "release_date": "6/29/2007",
+    "director": "Simeon Benoist",
+    "rating": 9.1
+  },
+  {
+    "movie_title": "Booker's Place: A Mississippi Story",
+    "genre": "Action",
+    "release_date": "6/8/2014",
+    "director": "Hermon Twinbourne",
+    "rating": 9.5
+  },
+  {
+    "movie_title": "Driving Lessons",
+    "genre": "Action",
+    "release_date": "12/9/2006",
+    "director": "Fulvia Mabbs",
+    "rating": 5.7
+  },
+  {
+    "movie_title": "Guys and Dolls",
+    "genre": "Drama",
+    "release_date": "12/6/2006",
+    "director": "Amata Foston",
+    "rating": 7.3
+  },
+  {
+    "movie_title": "Thirty Day Princess",
+    "genre": "Drama",
+    "release_date": "7/2/2011",
+    "director": "Ada Lobell",
+    "rating": 2.1
+  },
+  {
+    "movie_title": "Hercules",
+    "genre": "Drama",
+    "release_date": "11/23/2020",
+    "director": "Madalyn Chillistone",
+    "rating": 6.9
+  },
+  {
+    "movie_title": "Believe Me",
+    "genre": "Comedy",
+    "release_date": "3/6/2015",
+    "director": "Rosella Cooksey",
+    "rating": 5.8
+  },
+  {
+    "movie_title": "Two Evil Eyes",
+    "genre": "Action",
+    "release_date": "4/19/2008",
+    "director": "Barnabas Dreier",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "Barocco",
+    "genre": "Action",
+    "release_date": "9/10/2003",
+    "director": "Rayner Abrey",
+    "rating": 6.9
+  },
+  {
+    "movie_title": "Foreign Letters",
+    "genre": "Action",
+    "release_date": "5/24/2003",
+    "director": "Alasteir Warrier",
+    "rating": 8.0
+  },
+  {
+    "movie_title": "Fährmann Maria",
+    "genre": "Sci-Fi",
+    "release_date": "5/19/2014",
+    "director": "Filberto McKelvey",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "Affairs of Anatol, The",
+    "genre": "Drama",
+    "release_date": "5/19/2001",
+    "director": "Eddie Darnody",
+    "rating": 1.4
+  },
+  {
+    "movie_title": "RFK Must Die: The Assassination of Bobby Kennedy",
+    "genre": "Action",
+    "release_date": "8/29/2016",
+    "director": "Jori Pawelke",
+    "rating": 3.5
+  },
+  {
+    "movie_title": "Death by China ",
+    "genre": "Horror",
+    "release_date": "12/2/2012",
+    "director": "Ansell Balshen",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Shuttle",
+    "genre": "Drama",
+    "release_date": "9/29/2010",
+    "director": "Mitchael Verson",
+    "rating": 1.2
+  },
+  {
+    "movie_title": "Second Time Around, The",
+    "genre": "Action",
+    "release_date": "10/6/2022",
+    "director": "Austen Steger",
+    "rating": 6.8
+  },
+  {
+    "movie_title": "Secret of Santa Vittoria, The",
+    "genre": "Drama",
+    "release_date": "1/24/2001",
+    "director": "Robena Crankshaw",
+    "rating": 1.1
+  },
+  {
+    "movie_title": "My Wife Is a Gangster (Jopog manura)",
+    "genre": "Drama",
+    "release_date": "6/22/2019",
+    "director": "Chrysler Ferschke",
+    "rating": 9.1
+  },
+  {
+    "movie_title": "Unbreakable",
+    "genre": "Drama",
+    "release_date": "7/12/2002",
+    "director": "Reyna Hartzenberg",
+    "rating": 8.0
+  },
+  {
+    "movie_title": "Collateral Damage",
+    "genre": "Drama",
+    "release_date": "10/19/2015",
+    "director": "Benedick Gamlyn",
+    "rating": 4.0
+  },
+  {
+    "movie_title": "Jane Austen Book Club, The",
+    "genre": "Horror",
+    "release_date": "5/20/2013",
+    "director": "Tamera Reedyhough",
+    "rating": 9.2
+  },
+  {
+    "movie_title": "Sweet Land",
+    "genre": "Sci-Fi",
+    "release_date": "2/19/2012",
+    "director": "Gretna Harridge",
+    "rating": 6.4
+  },
+  {
+    "movie_title": "Guns of the Magnificent Seven",
+    "genre": "Horror",
+    "release_date": "12/22/2017",
+    "director": "Weber Barta",
+    "rating": 1.9
+  },
+  {
+    "movie_title": "Spetters",
+    "genre": "Drama",
+    "release_date": "3/20/2018",
+    "director": "Suzann Rubinsaft",
+    "rating": 8.9
+  },
+  {
+    "movie_title": "Goofy Movies Number One",
+    "genre": "Action",
+    "release_date": "7/24/2005",
+    "director": "Jamey Brech",
+    "rating": 6.8
+  },
+  {
+    "movie_title": "Forever Mine",
+    "genre": "Horror",
+    "release_date": "1/22/2020",
+    "director": "Northrup MacMenamy",
+    "rating": 1.3
+  },
+  {
+    "movie_title": "Blackhat",
+    "genre": "Sci-Fi",
+    "release_date": "7/22/2004",
+    "director": "Johnathan Peperell",
+    "rating": 4.5
+  },
+  {
+    "movie_title": "Ambition",
+    "genre": "Action",
+    "release_date": "11/22/2018",
+    "director": "Courtnay Hise",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "After Life (Wandafuru raifu)",
+    "genre": "Action",
+    "release_date": "4/28/2009",
+    "director": "Mortimer Mounch",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "Young Tom Edison",
+    "genre": "Comedy",
+    "release_date": "11/27/2015",
+    "director": "Krysta Alwell",
+    "rating": 2.7
+  },
+  {
+    "movie_title": "Panic",
+    "genre": "Horror",
+    "release_date": "3/18/2014",
+    "director": "Gaile O'Cannan",
+    "rating": 2.4
+  },
+  {
+    "movie_title": "Chasing Papi (a.k.a. Papi Chulo)",
+    "genre": "Sci-Fi",
+    "release_date": "4/21/2005",
+    "director": "Chicky Maulkin",
+    "rating": 3.1
+  },
+  {
+    "movie_title": "Underworld: Awakening",
+    "genre": "Horror",
+    "release_date": "9/14/2002",
+    "director": "Fey Snellman",
+    "rating": 1.7
+  },
+  {
+    "movie_title": "Sadie Thompson",
+    "genre": "Drama",
+    "release_date": "10/31/2001",
+    "director": "Anallise Skate",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "Leatherface: Texas Chainsaw Massacre III",
+    "genre": "Action",
+    "release_date": "12/2/2004",
+    "director": "Neysa Lyptrit",
+    "rating": 1.7
+  },
+  {
+    "movie_title": "Three (a.k.a. 3)",
+    "genre": "Sci-Fi",
+    "release_date": "10/10/2008",
+    "director": "Delly Sibthorp",
+    "rating": 6.5
+  },
+  {
+    "movie_title": "Rusalochka (The Little Mermaid)",
+    "genre": "Drama",
+    "release_date": "6/24/2005",
+    "director": "Margaret Daoust",
+    "rating": 8.4
+  },
+  {
+    "movie_title": "Eighth Day, The (Den Åttonde dagen)",
+    "genre": "Horror",
+    "release_date": "1/11/2019",
+    "director": "Olav Smickle",
+    "rating": 1.2
+  },
+  {
+    "movie_title": "Bill Hicks: Relentless",
+    "genre": "Drama",
+    "release_date": "9/2/2018",
+    "director": "Bayard Doswell",
+    "rating": 2.5
+  },
+  {
+    "movie_title": "Paul",
+    "genre": "Drama",
+    "release_date": "3/11/2012",
+    "director": "Lucille Mounsey",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "Air America",
+    "genre": "Horror",
+    "release_date": "6/28/2019",
+    "director": "Aubert Pasley",
+    "rating": 3.6
+  },
+  {
+    "movie_title": "Megiddo: The Omega Code 2",
+    "genre": "Comedy",
+    "release_date": "10/25/2012",
+    "director": "Harlen Leathem",
+    "rating": 5.5
+  },
+  {
+    "movie_title": "Full Monty, The",
+    "genre": "Action",
+    "release_date": "12/9/2018",
+    "director": "Malvina Bortol",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "I Love You, Beth Cooper",
+    "genre": "Action",
+    "release_date": "12/6/2000",
+    "director": "Kore Caven",
+    "rating": 7.8
+  },
+  {
+    "movie_title": "Chinatown",
+    "genre": "Drama",
+    "release_date": "9/1/2005",
+    "director": "Cozmo Elsy",
+    "rating": 8.3
+  },
+  {
+    "movie_title": "Dracula: Dead and Loving It",
+    "genre": "Action",
+    "release_date": "4/19/2015",
+    "director": "Adlai Witherington",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Specials, The",
+    "genre": "Comedy",
+    "release_date": "11/24/2002",
+    "director": "Carver Parzizek",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "Gold Rush, The",
+    "genre": "Horror",
+    "release_date": "6/19/2016",
+    "director": "Sadella Selliman",
+    "rating": 5.2
+  },
+  {
+    "movie_title": "Talk Radio",
+    "genre": "Comedy",
+    "release_date": "1/21/2016",
+    "director": "Bonita Seneschal",
+    "rating": 7.1
+  },
+  {
+    "movie_title": "Cesar Chavez",
+    "genre": "Comedy",
+    "release_date": "3/5/2003",
+    "director": "Alejandro Worrill",
+    "rating": 1.7
+  },
+  {
+    "movie_title": "World's Greatest Athlete, The",
+    "genre": "Comedy",
+    "release_date": "6/12/2003",
+    "director": "Bethanne Krienke",
+    "rating": 3.4
+  },
+  {
+    "movie_title": "American Teen",
+    "genre": "Drama",
+    "release_date": "2/17/2021",
+    "director": "Lizzie McQuilty",
+    "rating": 3.2
+  },
+  {
+    "movie_title": "MacGruber",
+    "genre": "Sci-Fi",
+    "release_date": "1/3/2001",
+    "director": "Hattie Patinkin",
+    "rating": 6.4
+  },
+  {
+    "movie_title": "Lost Reels of Pancho Villa, The (Los rollos perdidos de Pancho Villa)",
+    "genre": "Action",
+    "release_date": "7/15/2018",
+    "director": "Rogerio Jailler",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "Wait Until Dark",
+    "genre": "Action",
+    "release_date": "4/11/2004",
+    "director": "Randal Warren",
+    "rating": 8.2
+  },
+  {
+    "movie_title": "Milky Way (Tejút)",
+    "genre": "Action",
+    "release_date": "9/3/2015",
+    "director": "Philip Fairbeard",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "Running With Scissors",
+    "genre": "Comedy",
+    "release_date": "1/25/2015",
+    "director": "Loni Jeenes",
+    "rating": 7.8
+  },
+  {
+    "movie_title": "Note by Note: The Making of Steinway L1037",
+    "genre": "Comedy",
+    "release_date": "3/26/2001",
+    "director": "Tony Bohman",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Chasing Ghosts: Beyond the Arcade ",
+    "genre": "Comedy",
+    "release_date": "5/15/2009",
+    "director": "Anne Davana",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "Mandingo",
+    "genre": "Drama",
+    "release_date": "5/26/2020",
+    "director": "Edeline Lapham",
+    "rating": 1.5
+  },
+  {
+    "movie_title": "That's Entertainment, Part II",
+    "genre": "Drama",
+    "release_date": "3/28/2021",
+    "director": "Cahra Marde",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "I Love You, I Love You Not",
+    "genre": "Sci-Fi",
+    "release_date": "4/21/2012",
+    "director": "Cornell Edyson",
+    "rating": 8.1
+  },
+  {
+    "movie_title": "First Person Plural",
+    "genre": "Drama",
+    "release_date": "2/20/2002",
+    "director": "Baxy Danels",
+    "rating": 3.2
+  },
+  {
+    "movie_title": "Leopard Man, The",
+    "genre": "Sci-Fi",
+    "release_date": "10/26/2015",
+    "director": "Anthony Murthwaite",
+    "rating": 1.3
+  },
+  {
+    "movie_title": "Applause (Applaus)",
+    "genre": "Comedy",
+    "release_date": "5/10/2001",
+    "director": "Netta Fidal",
+    "rating": 1.2
+  },
+  {
+    "movie_title": "For a Woman (Pour une femme)",
+    "genre": "Drama",
+    "release_date": "12/8/2002",
+    "director": "Gordie Winkett",
+    "rating": 6.4
+  },
+  {
+    "movie_title": "Dirty Filthy Love",
+    "genre": "Drama",
+    "release_date": "4/5/2002",
+    "director": "Judith Fiveash",
+    "rating": 8.4
+  },
+  {
+    "movie_title": "Widows",
+    "genre": "Drama",
+    "release_date": "11/13/2009",
+    "director": "Karon Sproson",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Submerged",
+    "genre": "Action",
+    "release_date": "4/30/2010",
+    "director": "Janna Whittall",
+    "rating": 9.1
+  },
+  {
+    "movie_title": "Hit by Lightning",
+    "genre": "Sci-Fi",
+    "release_date": "4/26/2022",
+    "director": "Joly Morden",
+    "rating": 7.3
+  },
+  {
+    "movie_title": "Robin Williams: Weapons of Self Destruction",
+    "genre": "Comedy",
+    "release_date": "6/19/2016",
+    "director": "Pearline Turfin",
+    "rating": 7.8
+  },
+  {
+    "movie_title": "A Summer in La Goulette",
+    "genre": "Sci-Fi",
+    "release_date": "9/21/2009",
+    "director": "Ibby Eberz",
+    "rating": 7.7
+  },
+  {
+    "movie_title": "Architecture of Doom, The (Undergångens arkitektur)",
+    "genre": "Drama",
+    "release_date": "7/14/2010",
+    "director": "Bren Sybbe",
+    "rating": 9.8
+  },
+  {
+    "movie_title": "Let's Scare Jessica to Death",
+    "genre": "Sci-Fi",
+    "release_date": "4/12/2004",
+    "director": "Michaelina Southeran",
+    "rating": 8.1
+  },
+  {
+    "movie_title": "Chaos Theory",
+    "genre": "Drama",
+    "release_date": "9/22/2011",
+    "director": "Kirby Helmke",
+    "rating": 3.2
+  },
+  {
+    "movie_title": "Road House",
+    "genre": "Comedy",
+    "release_date": "6/12/2012",
+    "director": "Joly Arnoldi",
+    "rating": 6.6
+  },
+  {
+    "movie_title": "Egg and I, The",
+    "genre": "Action",
+    "release_date": "12/20/2022",
+    "director": "Andrus Cokayne",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "Ordinary Decent Criminal",
+    "genre": "Comedy",
+    "release_date": "3/27/2017",
+    "director": "Betta Hulson",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Porco Rosso (Crimson Pig) (Kurenai no buta)",
+    "genre": "Horror",
+    "release_date": "12/29/2018",
+    "director": "Frederik Benneton",
+    "rating": 9.2
+  },
+  {
+    "movie_title": "This Night I'll Possess Your Corpse (Esta Noite Encarnarei no Teu Cadáver)",
+    "genre": "Horror",
+    "release_date": "8/13/2003",
+    "director": "Cleve Wilcocks",
+    "rating": 5.6
+  },
+  {
+    "movie_title": "Chicken, the Fish and the King Crab, The (El pollo, el pez y el cangrejo real)",
+    "genre": "Sci-Fi",
+    "release_date": "12/1/2002",
+    "director": "Cissiee Barus",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "Blue Steel",
+    "genre": "Action",
+    "release_date": "6/9/2001",
+    "director": "Rene Leguey",
+    "rating": 5.3
+  },
+  {
+    "movie_title": "Extreme Movie",
+    "genre": "Comedy",
+    "release_date": "1/10/2016",
+    "director": "Carmine Winn",
+    "rating": 2.4
+  },
+  {
+    "movie_title": "Chasing Amy",
+    "genre": "Comedy",
+    "release_date": "11/18/2012",
+    "director": "Elissa Heavyside",
+    "rating": 7.7
+  },
+  {
+    "movie_title": "You Ain't Seen Nothin' Yet (Vous n'avez encore rien vu)",
+    "genre": "Action",
+    "release_date": "5/9/2008",
+    "director": "Jillene Lunge",
+    "rating": 1.9
+  },
+  {
+    "movie_title": "Sorority House Massacre II",
+    "genre": "Comedy",
+    "release_date": "4/20/2001",
+    "director": "Daune Baythrop",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "Addams Family Reunion",
+    "genre": "Sci-Fi",
+    "release_date": "4/12/2013",
+    "director": "Rea Scully",
+    "rating": 1.1
+  },
+  {
+    "movie_title": "Renegades",
+    "genre": "Drama",
+    "release_date": "6/21/2007",
+    "director": "Victoria Barday",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "In a Lonely Place",
+    "genre": "Horror",
+    "release_date": "12/31/2011",
+    "director": "Griffy Camerati",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "It's Always Fair Weather",
+    "genre": "Sci-Fi",
+    "release_date": "2/15/2022",
+    "director": "Samuele Agirre",
+    "rating": 3.0
+  },
+  {
+    "movie_title": "At Home by Myself... with You",
+    "genre": "Action",
+    "release_date": "4/12/2021",
+    "director": "Sabina Rillatt",
+    "rating": 7.1
+  },
+  {
+    "movie_title": "President's Man: A Line in the Sand, The",
+    "genre": "Action",
+    "release_date": "9/19/2009",
+    "director": "Evita Huddy",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "Where the Red Fern Grows",
+    "genre": "Drama",
+    "release_date": "2/21/2004",
+    "director": "Nicole Emnoney",
+    "rating": 9.2
+  },
+  {
+    "movie_title": "Noel",
+    "genre": "Drama",
+    "release_date": "9/7/2003",
+    "director": "Reece Bidder",
+    "rating": 3.8
+  },
+  {
+    "movie_title": "Santa Buddies",
+    "genre": "Drama",
+    "release_date": "11/12/2009",
+    "director": "Charin Viger",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Moment After 2, The: The Awakening",
+    "genre": "Action",
+    "release_date": "2/2/2022",
+    "director": "Cornelius Brewett",
+    "rating": 1.3
+  },
+  {
+    "movie_title": "Secret Life of Zoey, The",
+    "genre": "Action",
+    "release_date": "11/10/2010",
+    "director": "Hope Edelheit",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "Fist of Fury (Chinese Connection, The) (Jing wu men)",
+    "genre": "Drama",
+    "release_date": "7/25/2011",
+    "director": "Olympia Ewert",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "Bully",
+    "genre": "Action",
+    "release_date": "9/2/2011",
+    "director": "Luke Turvey",
+    "rating": 5.6
+  },
+  {
+    "movie_title": "A Short History of Decay",
+    "genre": "Comedy",
+    "release_date": "11/5/2012",
+    "director": "Don Costigan",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "Love in the Afternoon (Chloe in the Afternoon)  (L'amour l'après-midi)",
+    "genre": "Action",
+    "release_date": "4/8/2022",
+    "director": "Marlo Rickell",
+    "rating": 6.5
+  },
+  {
+    "movie_title": "Redes (Fishermen's Nets) (Wave, The)",
+    "genre": "Comedy",
+    "release_date": "5/24/2020",
+    "director": "Glen Suttle",
+    "rating": 4.7
+  },
+  {
+    "movie_title": "Weekend (a.k.a. Le Week-end) (Week End)",
+    "genre": "Drama",
+    "release_date": "9/23/2018",
+    "director": "Sandor Gaucher",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Go",
+    "genre": "Drama",
+    "release_date": "2/23/2022",
+    "director": "Danell Chasle",
+    "rating": 1.5
+  },
+  {
+    "movie_title": "Beach Blanket Bingo",
+    "genre": "Sci-Fi",
+    "release_date": "3/1/2015",
+    "director": "Ashli McAleese",
+    "rating": 3.6
+  },
+  {
+    "movie_title": "Detective Story",
+    "genre": "Horror",
+    "release_date": "5/4/2016",
+    "director": "Mella Stellino",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "Velvet Vampire, The",
+    "genre": "Action",
+    "release_date": "6/9/2009",
+    "director": "Katina Gillmor",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "Georgia",
+    "genre": "Comedy",
+    "release_date": "1/25/2012",
+    "director": "Kimmie Decourcy",
+    "rating": 9.7
+  },
+  {
+    "movie_title": "Whole Night, A (Toute une nuit)",
+    "genre": "Drama",
+    "release_date": "9/1/2005",
+    "director": "Myer Antuoni",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "The Sinners of Hell",
+    "genre": "Comedy",
+    "release_date": "8/1/2016",
+    "director": "Neile Arnoll",
+    "rating": 4.2
+  },
+  {
+    "movie_title": "Shade",
+    "genre": "Action",
+    "release_date": "8/31/2021",
+    "director": "Evin Bourgourd",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "Clownhouse",
+    "genre": "Horror",
+    "release_date": "1/13/2020",
+    "director": "Trefor Vautrey",
+    "rating": 8.3
+  },
+  {
+    "movie_title": "Frownland",
+    "genre": "Action",
+    "release_date": "7/11/2015",
+    "director": "Monroe McKevitt",
+    "rating": 6.3
+  },
+  {
+    "movie_title": "Bourne Identity, The",
+    "genre": "Comedy",
+    "release_date": "6/11/2013",
+    "director": "Dillon Shortall",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "Happy People: A Year in the Taiga",
+    "genre": "Drama",
+    "release_date": "6/20/2019",
+    "director": "Kincaid Inchan",
+    "rating": 2.8
+  },
+  {
+    "movie_title": "From the Terrace",
+    "genre": "Sci-Fi",
+    "release_date": "7/19/2009",
+    "director": "Lurleen Gidney",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "2 Guns",
+    "genre": "Horror",
+    "release_date": "11/14/2003",
+    "director": "Viv Brimelow",
+    "rating": 7.2
+  },
+  {
+    "movie_title": "Deep Impact",
+    "genre": "Sci-Fi",
+    "release_date": "10/29/2018",
+    "director": "Cale Laboune",
+    "rating": 8.9
+  },
+  {
+    "movie_title": "Kids of Survival",
+    "genre": "Sci-Fi",
+    "release_date": "10/28/2002",
+    "director": "Robert Lockwood",
+    "rating": 5.7
+  },
+  {
+    "movie_title": "Mouth to Mouth",
+    "genre": "Action",
+    "release_date": "10/18/2012",
+    "director": "Cart Tezure",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "Silent Rage",
+    "genre": "Sci-Fi",
+    "release_date": "6/22/2014",
+    "director": "Elonore Jenkinson",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "El Hada Buena - Una Fábula Peronista",
+    "genre": "Sci-Fi",
+    "release_date": "1/16/2010",
+    "director": "Gustie Loftin",
+    "rating": 7.3
+  },
+  {
+    "movie_title": "Love Forbidden (Défense d'aimer)",
+    "genre": "Action",
+    "release_date": "3/10/2012",
+    "director": "Marcellus Raoult",
+    "rating": 4.5
+  },
+  {
+    "movie_title": "Jane Eyre",
+    "genre": "Sci-Fi",
+    "release_date": "2/7/2004",
+    "director": "Chelsey Snowball",
+    "rating": 9.2
+  },
+  {
+    "movie_title": "Fat Kid Rules the World",
+    "genre": "Action",
+    "release_date": "12/1/2010",
+    "director": "Yurik Melburg",
+    "rating": 5.2
+  },
+  {
+    "movie_title": "Great Bank Hoax, The",
+    "genre": "Drama",
+    "release_date": "5/28/2022",
+    "director": "Stefano Creenan",
+    "rating": 7.2
+  },
+  {
+    "movie_title": "Son of Lassie",
+    "genre": "Horror",
+    "release_date": "2/21/2003",
+    "director": "Gasparo Bartolomeu",
+    "rating": 8.5
+  },
+  {
+    "movie_title": "Liberty Kid",
+    "genre": "Horror",
+    "release_date": "12/14/2004",
+    "director": "Rustin Lacasa",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Never Die Alone",
+    "genre": "Action",
+    "release_date": "12/7/2012",
+    "director": "Derek Trewman",
+    "rating": 8.9
+  },
+  {
+    "movie_title": "Bring It On",
+    "genre": "Horror",
+    "release_date": "3/13/2004",
+    "director": "Serena Chittem",
+    "rating": 1.0
+  },
+  {
+    "movie_title": "Milk and Honey",
+    "genre": "Horror",
+    "release_date": "1/27/2005",
+    "director": "Ase Frantz",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Rasmus på luffen",
+    "genre": "Sci-Fi",
+    "release_date": "3/13/2021",
+    "director": "Benita Balwin",
+    "rating": 5.5
+  },
+  {
+    "movie_title": "Bowfinger",
+    "genre": "Comedy",
+    "release_date": "4/3/2012",
+    "director": "Edward Beddoes",
+    "rating": 2.8
+  },
+  {
+    "movie_title": "Angelus",
+    "genre": "Horror",
+    "release_date": "12/31/2007",
+    "director": "Melitta Duligall",
+    "rating": 4.0
+  },
+  {
+    "movie_title": "10,000 BC",
+    "genre": "Horror",
+    "release_date": "10/22/2003",
+    "director": "Lotta Fido",
+    "rating": 3.6
+  },
+  {
+    "movie_title": "Vic+Flo Saw a Bear",
+    "genre": "Horror",
+    "release_date": "2/28/2012",
+    "director": "Wolfie Bullas",
+    "rating": 8.4
+  },
+  {
+    "movie_title": "Shadow People",
+    "genre": "Comedy",
+    "release_date": "11/29/2019",
+    "director": "Corby Worvell",
+    "rating": 2.0
+  },
+  {
+    "movie_title": "Why Be Good?",
+    "genre": "Comedy",
+    "release_date": "8/27/2005",
+    "director": "Adrian Roux",
+    "rating": 3.5
+  },
+  {
+    "movie_title": "Pekko ja unissakävelijä",
+    "genre": "Sci-Fi",
+    "release_date": "9/12/2010",
+    "director": "Nefen Fusco",
+    "rating": 7.3
+  },
+  {
+    "movie_title": "Gerhard Richter Painting",
+    "genre": "Sci-Fi",
+    "release_date": "12/13/2002",
+    "director": "Baryram Hearfield",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "Pain & Gain",
+    "genre": "Horror",
+    "release_date": "5/25/2008",
+    "director": "Brigid Domenichelli",
+    "rating": 5.7
+  },
+  {
+    "movie_title": "Immaculate Conception of Little Dizzle",
+    "genre": "Comedy",
+    "release_date": "3/1/2021",
+    "director": "Alric Hunter",
+    "rating": 7.9
+  },
+  {
+    "movie_title": "Unconditional Love",
+    "genre": "Horror",
+    "release_date": "5/23/2001",
+    "director": "Giuseppe Collins",
+    "rating": 6.8
+  },
+  {
+    "movie_title": "Splitting Heirs",
+    "genre": "Horror",
+    "release_date": "3/12/2009",
+    "director": "Fairfax Kindleysides",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "Azur & Asmar (Azur et Asmar)",
+    "genre": "Horror",
+    "release_date": "9/25/2022",
+    "director": "Margeaux Clapham",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "The Car",
+    "genre": "Horror",
+    "release_date": "12/23/2002",
+    "director": "Reba Surridge",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "Good Thief, The",
+    "genre": "Comedy",
+    "release_date": "9/18/2018",
+    "director": "Wilfrid Clemes",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "Rebel, The",
+    "genre": "Action",
+    "release_date": "3/7/2003",
+    "director": "Sherrie Stickley",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Gold of Naples, The (L'oro di Napoli)",
+    "genre": "Sci-Fi",
+    "release_date": "10/21/2006",
+    "director": "Waverley Alexander",
+    "rating": 5.2
+  },
+  {
+    "movie_title": "Bad Luck Love",
+    "genre": "Drama",
+    "release_date": "2/7/2007",
+    "director": "Lilias Trimming",
+    "rating": 5.1
+  },
+  {
+    "movie_title": "They Made Me a Criminal (I Became a Criminal) (They Made Me a Fugitive)",
+    "genre": "Action",
+    "release_date": "2/25/2020",
+    "director": "Lorraine McCallister",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Mr. Vampire (Geung si sin sang)",
+    "genre": "Comedy",
+    "release_date": "8/20/2006",
+    "director": "Jaquelyn Grabiec",
+    "rating": 4.7
+  },
+  {
+    "movie_title": "Thumbsucker",
+    "genre": "Sci-Fi",
+    "release_date": "6/1/2017",
+    "director": "Nisse Hansel",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Rumor of Angels, A",
+    "genre": "Comedy",
+    "release_date": "5/22/2014",
+    "director": "Leonanie O'Glassane",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "Women in Love",
+    "genre": "Horror",
+    "release_date": "6/28/2018",
+    "director": "Jacquelin Trineman",
+    "rating": 9.4
+  },
+  {
+    "movie_title": "Perfect Circle, The (Savrseni krug)",
+    "genre": "Horror",
+    "release_date": "9/1/2022",
+    "director": "Brinna Bourdon",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "In the Fog (V tumane)",
+    "genre": "Action",
+    "release_date": "10/7/2014",
+    "director": "Rianon Riccioppo",
+    "rating": 6.9
+  },
+  {
+    "movie_title": "Manrape (Män kan inte våldtas) ",
+    "genre": "Comedy",
+    "release_date": "4/14/2004",
+    "director": "Esme Reskelly",
+    "rating": 3.0
+  },
+  {
+    "movie_title": "Evil Aliens",
+    "genre": "Sci-Fi",
+    "release_date": "1/25/2010",
+    "director": "Davide Ruppel",
+    "rating": 2.8
+  },
+  {
+    "movie_title": "Metroland",
+    "genre": "Sci-Fi",
+    "release_date": "6/3/2000",
+    "director": "Lulu Haining",
+    "rating": 3.5
+  },
+  {
+    "movie_title": "Ginger & Rosa",
+    "genre": "Sci-Fi",
+    "release_date": "11/19/2015",
+    "director": "Genia Varvara",
+    "rating": 1.2
+  },
+  {
+    "movie_title": "Mr. Wu",
+    "genre": "Comedy",
+    "release_date": "2/5/2005",
+    "director": "Sullivan Orring",
+    "rating": 4.5
+  },
+  {
+    "movie_title": "Dragnet",
+    "genre": "Comedy",
+    "release_date": "5/9/2003",
+    "director": "Darryl Fernan",
+    "rating": 3.0
+  },
+  {
+    "movie_title": "Forklift Driver Klaus: The First Day on the Job",
+    "genre": "Action",
+    "release_date": "11/16/2007",
+    "director": "Hilliard Keaveny",
+    "rating": 7.4
+  },
+  {
+    "movie_title": "Brown of Harvard",
+    "genre": "Action",
+    "release_date": "3/8/2020",
+    "director": "Pandora Parr",
+    "rating": 9.8
+  },
+  {
+    "movie_title": "Her",
+    "genre": "Horror",
+    "release_date": "3/25/2003",
+    "director": "Leonardo Greed",
+    "rating": 7.4
+  },
+  {
+    "movie_title": "Desperate Search",
+    "genre": "Sci-Fi",
+    "release_date": "6/28/2019",
+    "director": "Hanson Schiesterl",
+    "rating": 6.1
+  },
+  {
+    "movie_title": "King Is Dead!, The",
+    "genre": "Comedy",
+    "release_date": "5/27/2007",
+    "director": "Justina Low",
+    "rating": 8.0
+  },
+  {
+    "movie_title": "Flashbacks of a Fool",
+    "genre": "Comedy",
+    "release_date": "8/3/2006",
+    "director": "Lola Sleith",
+    "rating": 8.0
+  },
+  {
+    "movie_title": "3096 Days",
+    "genre": "Drama",
+    "release_date": "3/20/2012",
+    "director": "Cassius Doak",
+    "rating": 2.6
+  },
+  {
+    "movie_title": "Smile Like Yours, A",
+    "genre": "Comedy",
+    "release_date": "1/4/2014",
+    "director": "Cherrita Ericsson",
+    "rating": 9.4
+  },
+  {
+    "movie_title": "Tribulation",
+    "genre": "Comedy",
+    "release_date": "1/12/2008",
+    "director": "Aridatha Braznell",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "Kid Galahad",
+    "genre": "Horror",
+    "release_date": "4/29/2018",
+    "director": "Ruthy Lebrun",
+    "rating": 8.3
+  },
+  {
+    "movie_title": "Nayak: The Hero",
+    "genre": "Action",
+    "release_date": "8/20/2008",
+    "director": "Ashia Goulbourne",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "Kid Galahad",
+    "genre": "Action",
+    "release_date": "1/12/2017",
+    "director": "Judith Halfacre",
+    "rating": 3.4
+  },
+  {
+    "movie_title": "Cinderella",
+    "genre": "Sci-Fi",
+    "release_date": "10/31/2005",
+    "director": "Loutitia Tittershill",
+    "rating": 4.2
+  },
+  {
+    "movie_title": "Guy Named Joe, A",
+    "genre": "Drama",
+    "release_date": "3/30/2012",
+    "director": "Guntar Brammall",
+    "rating": 5.7
+  },
+  {
+    "movie_title": "Adventures of Food Boy, The (aka High School Superhero)",
+    "genre": "Drama",
+    "release_date": "7/6/2021",
+    "director": "Viole Dugdale",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "Maze, The",
+    "genre": "Comedy",
+    "release_date": "4/20/2001",
+    "director": "Preston Offener",
+    "rating": 2.1
+  },
+  {
+    "movie_title": "Batman",
+    "genre": "Comedy",
+    "release_date": "9/22/2014",
+    "director": "John Braywood",
+    "rating": 1.4
+  },
+  {
+    "movie_title": "Hackers",
+    "genre": "Sci-Fi",
+    "release_date": "5/14/2019",
+    "director": "Augustina Juleff",
+    "rating": 6.8
+  },
+  {
+    "movie_title": "Suddenly, Last Summer",
+    "genre": "Action",
+    "release_date": "8/9/2010",
+    "director": "Harriot Lysaght",
+    "rating": 2.5
+  },
+  {
+    "movie_title": "Prodigal Son, The (Bai ga jai)",
+    "genre": "Sci-Fi",
+    "release_date": "7/14/2005",
+    "director": "Stafford Schindler",
+    "rating": 8.0
+  },
+  {
+    "movie_title": "Around the World in 80 Days",
+    "genre": "Horror",
+    "release_date": "11/17/2008",
+    "director": "Caitrin Calltone",
+    "rating": 1.2
+  },
+  {
+    "movie_title": "Point Break",
+    "genre": "Action",
+    "release_date": "2/25/2000",
+    "director": "Michal Langran",
+    "rating": 3.8
+  },
+  {
+    "movie_title": "Snow Queen, The (Lumikuningatar)",
+    "genre": "Action",
+    "release_date": "10/7/2004",
+    "director": "Micheline Mathiassen",
+    "rating": 5.6
+  },
+  {
+    "movie_title": "For Those in Peril",
+    "genre": "Action",
+    "release_date": "6/14/2010",
+    "director": "Karen Reina",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "Lake Mungo",
+    "genre": "Horror",
+    "release_date": "7/19/2020",
+    "director": "Olivia Stang-Gjertsen",
+    "rating": 7.9
+  },
+  {
+    "movie_title": "In A Day",
+    "genre": "Comedy",
+    "release_date": "4/19/2003",
+    "director": "Moses Novkovic",
+    "rating": 6.5
+  },
+  {
+    "movie_title": "Road House",
+    "genre": "Drama",
+    "release_date": "3/1/2007",
+    "director": "Fairleigh Regardsoe",
+    "rating": 6.1
+  },
+  {
+    "movie_title": "Dog's Life, A",
+    "genre": "Sci-Fi",
+    "release_date": "10/9/2001",
+    "director": "Ly Wrotham",
+    "rating": 8.5
+  },
+  {
+    "movie_title": "Outlaw, The",
+    "genre": "Action",
+    "release_date": "2/16/2007",
+    "director": "Virgie Battelle",
+    "rating": 3.0
+  },
+  {
+    "movie_title": "Hanna",
+    "genre": "Drama",
+    "release_date": "8/24/2013",
+    "director": "Ewell Kovnot",
+    "rating": 7.2
+  },
+  {
+    "movie_title": "Sidewalks of London (St. Martin's Lane)",
+    "genre": "Comedy",
+    "release_date": "2/10/2014",
+    "director": "Dur Vanni",
+    "rating": 5.9
+  },
+  {
+    "movie_title": "Gay Divorcee, The",
+    "genre": "Sci-Fi",
+    "release_date": "4/14/2009",
+    "director": "Kerry Dargue",
+    "rating": 3.6
+  },
+  {
+    "movie_title": "Solino",
+    "genre": "Comedy",
+    "release_date": "2/16/2007",
+    "director": "Maddie Chamberlen",
+    "rating": 4.5
+  },
+  {
+    "movie_title": "Strange Case of Angelica, The (O Estranho Caso de Angélica)",
+    "genre": "Drama",
+    "release_date": "3/30/2016",
+    "director": "Vivian Hatherley",
+    "rating": 6.9
+  },
+  {
+    "movie_title": "War of the Arrows (Choi-jong-byeong-gi Hwal)",
+    "genre": "Horror",
+    "release_date": "8/5/2000",
+    "director": "Maxie Bernet",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "Belly of the Beast",
+    "genre": "Sci-Fi",
+    "release_date": "10/2/2021",
+    "director": "Garvey Russell",
+    "rating": 5.1
+  },
+  {
+    "movie_title": "Flesh",
+    "genre": "Sci-Fi",
+    "release_date": "10/22/2018",
+    "director": "Irita Andrassy",
+    "rating": 9.8
+  },
+  {
+    "movie_title": "Golden Boys, The",
+    "genre": "Sci-Fi",
+    "release_date": "3/8/2006",
+    "director": "Ethelin Jecock",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Halloweentown High",
+    "genre": "Sci-Fi",
+    "release_date": "6/1/2014",
+    "director": "Mendie Boissier",
+    "rating": 3.4
+  },
+  {
+    "movie_title": "8MM 2",
+    "genre": "Drama",
+    "release_date": "4/20/2006",
+    "director": "Lamont Wilkes",
+    "rating": 2.8
+  },
+  {
+    "movie_title": "MacGyver: Lost Treasure of Atlantis",
+    "genre": "Action",
+    "release_date": "3/9/2008",
+    "director": "Dorry MacMenamie",
+    "rating": 5.0
+  },
+  {
+    "movie_title": "Last Days in the Desert",
+    "genre": "Sci-Fi",
+    "release_date": "4/4/2009",
+    "director": "Cullan Jandak",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "Delgo",
+    "genre": "Drama",
+    "release_date": "7/6/2003",
+    "director": "Vanessa Gornar",
+    "rating": 1.4
+  },
+  {
+    "movie_title": "Company Men, The",
+    "genre": "Drama",
+    "release_date": "2/3/2009",
+    "director": "Vance Folder",
+    "rating": 4.5
+  },
+  {
+    "movie_title": "Magic of Méliès, The (magie Méliès, La)",
+    "genre": "Action",
+    "release_date": "9/30/2003",
+    "director": "Sergio Draisey",
+    "rating": 6.1
+  },
+  {
+    "movie_title": "Vacation from Marriage",
+    "genre": "Comedy",
+    "release_date": "6/25/2009",
+    "director": "Ky Allner",
+    "rating": 7.2
+  },
+  {
+    "movie_title": "Time Masters (Maîtres du temps, Les)",
+    "genre": "Horror",
+    "release_date": "5/27/2021",
+    "director": "Shauna Dast",
+    "rating": 8.7
+  },
+  {
+    "movie_title": "Smart Set, The",
+    "genre": "Comedy",
+    "release_date": "3/12/2014",
+    "director": "Trudey Gadman",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "Stepford Wives, The",
+    "genre": "Drama",
+    "release_date": "9/28/2016",
+    "director": "Salmon Wyborn",
+    "rating": 8.9
+  },
+  {
+    "movie_title": "Savages",
+    "genre": "Sci-Fi",
+    "release_date": "5/12/2007",
+    "director": "Irvin Tibbotts",
+    "rating": 5.4
+  },
+  {
+    "movie_title": "Bodyguard, The (Karate Kiba)",
+    "genre": "Drama",
+    "release_date": "7/12/2022",
+    "director": "Cass Di Giacomettino",
+    "rating": 3.0
+  },
+  {
+    "movie_title": "Without Pity",
+    "genre": "Drama",
+    "release_date": "7/27/2019",
+    "director": "Ronalda McNirlin",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Sherlock Holmes",
+    "genre": "Comedy",
+    "release_date": "8/12/2007",
+    "director": "Fanni Shorter",
+    "rating": 8.0
+  },
+  {
+    "movie_title": "Freshman, The",
+    "genre": "Horror",
+    "release_date": "2/17/2001",
+    "director": "North Arboin",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Kon-Tiki",
+    "genre": "Action",
+    "release_date": "4/24/2020",
+    "director": "Kathleen Mazzilli",
+    "rating": 5.0
+  },
+  {
+    "movie_title": "Santa Fe",
+    "genre": "Horror",
+    "release_date": "8/9/2018",
+    "director": "Theadora Probetts",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "Tin Star, The",
+    "genre": "Comedy",
+    "release_date": "1/6/2020",
+    "director": "Christiana Adao",
+    "rating": 6.9
+  },
+  {
+    "movie_title": "Lipton Cockton in the Shadows of Sodoma",
+    "genre": "Horror",
+    "release_date": "6/26/2007",
+    "director": "Peadar Larret",
+    "rating": 8.9
+  },
+  {
+    "movie_title": "I Will Follow You Into the Dark",
+    "genre": "Drama",
+    "release_date": "3/28/2014",
+    "director": "Georgi Astlett",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "King of Beggars (Mo jong yuen So Hat-Yi)",
+    "genre": "Horror",
+    "release_date": "7/25/2020",
+    "director": "Jordon Stickford",
+    "rating": 3.1
+  },
+  {
+    "movie_title": "Slender Thread, The",
+    "genre": "Drama",
+    "release_date": "6/14/2018",
+    "director": "Lauraine Trowle",
+    "rating": 8.0
+  },
+  {
+    "movie_title": "Way Back, The",
+    "genre": "Horror",
+    "release_date": "12/3/2002",
+    "director": "Maddalena Bourton",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "Gitmo",
+    "genre": "Comedy",
+    "release_date": "8/6/2011",
+    "director": "Dur Carne",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "Sandlot, The",
+    "genre": "Drama",
+    "release_date": "6/3/2016",
+    "director": "Krissie Ingolotti",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "Shoot 'Em Up",
+    "genre": "Horror",
+    "release_date": "12/15/2014",
+    "director": "Christel Towhey",
+    "rating": 1.4
+  },
+  {
+    "movie_title": "House Hunting",
+    "genre": "Comedy",
+    "release_date": "10/9/2017",
+    "director": "Hill Schafer",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "Marriage Italian Style (Matrimonio all'italiana)",
+    "genre": "Comedy",
+    "release_date": "10/19/2014",
+    "director": "Jane Estcot",
+    "rating": 3.3
+  },
+  {
+    "movie_title": "Grand Piano",
+    "genre": "Action",
+    "release_date": "1/9/2012",
+    "director": "Caro Giercke",
+    "rating": 2.7
+  },
+  {
+    "movie_title": "Laws of Attraction",
+    "genre": "Comedy",
+    "release_date": "7/15/2009",
+    "director": "Penelopa Mapson",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Transporter 3",
+    "genre": "Comedy",
+    "release_date": "12/16/2001",
+    "director": "Cleavland Solano",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Latter Days",
+    "genre": "Sci-Fi",
+    "release_date": "1/13/2012",
+    "director": "Richardo Crafts",
+    "rating": 5.0
+  },
+  {
+    "movie_title": "Cambridge Spies",
+    "genre": "Action",
+    "release_date": "8/27/2008",
+    "director": "Talbot Simmgen",
+    "rating": 2.1
+  },
+  {
+    "movie_title": "Frantic",
+    "genre": "Sci-Fi",
+    "release_date": "9/15/2018",
+    "director": "Shanna Lawrenz",
+    "rating": 4.4
+  },
+  {
+    "movie_title": "Cairo Station (a.k.a. Iron Gate, The) (Bab el hadid)",
+    "genre": "Sci-Fi",
+    "release_date": "4/30/2003",
+    "director": "Jodee Gee",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "Race the Sun",
+    "genre": "Comedy",
+    "release_date": "8/19/2015",
+    "director": "Christian Kobierra",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "King of Germany",
+    "genre": "Comedy",
+    "release_date": "2/17/2010",
+    "director": "Sibelle Wimmer",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "Sister (L'enfant d'en haut)",
+    "genre": "Action",
+    "release_date": "2/26/2007",
+    "director": "Mureil McIlmorow",
+    "rating": 5.7
+  },
+  {
+    "movie_title": "Vampire Apocalypse",
+    "genre": "Horror",
+    "release_date": "6/16/2009",
+    "director": "Maximilien Whates",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Only Two Can Play",
+    "genre": "Horror",
+    "release_date": "10/9/2013",
+    "director": "Drusy Ottery",
+    "rating": 4.6
+  },
+  {
+    "movie_title": "Calling Dr. Death",
+    "genre": "Action",
+    "release_date": "8/6/2021",
+    "director": "Northrup Ianne",
+    "rating": 3.6
+  },
+  {
+    "movie_title": "Better Life, A",
+    "genre": "Drama",
+    "release_date": "11/29/2019",
+    "director": "Cross Kelsall",
+    "rating": 8.9
+  },
+  {
+    "movie_title": "13Hrs",
+    "genre": "Comedy",
+    "release_date": "12/5/2011",
+    "director": "Haskell Bitterton",
+    "rating": 3.8
+  },
+  {
+    "movie_title": "Place Beyond the Pines, The",
+    "genre": "Drama",
+    "release_date": "1/14/2009",
+    "director": "Mort Glandfield",
+    "rating": 5.7
+  },
+  {
+    "movie_title": "71 Fragments of a Chronology of Chance (71 Fragmente einer Chronologie des Zufalls)",
+    "genre": "Drama",
+    "release_date": "9/28/2005",
+    "director": "Sidnee Krahl",
+    "rating": 7.7
+  },
+  {
+    "movie_title": "Beaches",
+    "genre": "Comedy",
+    "release_date": "3/16/2002",
+    "director": "Christie Josofovitz",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "Morsian yllättää",
+    "genre": "Action",
+    "release_date": "6/18/2002",
+    "director": "Shanna Croyser",
+    "rating": 7.7
+  },
+  {
+    "movie_title": "Walk on the Wild Side",
+    "genre": "Action",
+    "release_date": "11/29/2007",
+    "director": "Lance Silverthorne",
+    "rating": 6.1
+  },
+  {
+    "movie_title": "Life of Aleksis Kivi, The (Aleksis Kiven elämä)",
+    "genre": "Comedy",
+    "release_date": "8/24/2016",
+    "director": "Garreth Cawthra",
+    "rating": 9.2
+  },
+  {
+    "movie_title": "Barfly",
+    "genre": "Horror",
+    "release_date": "1/20/2007",
+    "director": "Zenia Dibson",
+    "rating": 7.3
+  },
+  {
+    "movie_title": "Splice",
+    "genre": "Horror",
+    "release_date": "8/8/2021",
+    "director": "Packston Elam",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "Daydreams",
+    "genre": "Sci-Fi",
+    "release_date": "10/30/2005",
+    "director": "Glenna Kilgallen",
+    "rating": 3.8
+  },
+  {
+    "movie_title": "Blazing Guns",
+    "genre": "Horror",
+    "release_date": "12/22/2020",
+    "director": "Carmina Lutwidge",
+    "rating": 5.8
+  },
+  {
+    "movie_title": "Act of Aggression",
+    "genre": "Horror",
+    "release_date": "7/28/2015",
+    "director": "Dalli Londors",
+    "rating": 7.4
+  },
+  {
+    "movie_title": "Hidden Agenda",
+    "genre": "Sci-Fi",
+    "release_date": "1/3/2007",
+    "director": "Laureen O'Henecan",
+    "rating": 5.3
+  },
+  {
+    "movie_title": "For Love of Ivy",
+    "genre": "Drama",
+    "release_date": "8/18/2021",
+    "director": "Emmott Facher",
+    "rating": 8.1
+  },
+  {
+    "movie_title": "No Mercy (Yongseoneun Eupda)",
+    "genre": "Action",
+    "release_date": "1/2/2021",
+    "director": "Sanderson Sears",
+    "rating": 8.5
+  },
+  {
+    "movie_title": "Cosmonaut, The",
+    "genre": "Comedy",
+    "release_date": "6/28/2021",
+    "director": "Yale Beldum",
+    "rating": 2.6
+  },
+  {
+    "movie_title": "Mother, Jugs & Speed",
+    "genre": "Drama",
+    "release_date": "12/28/2015",
+    "director": "Philomena Scollick",
+    "rating": 5.3
+  },
+  {
+    "movie_title": "Trials of Cate McCall, The",
+    "genre": "Drama",
+    "release_date": "4/29/2004",
+    "director": "Freddy Hardin",
+    "rating": 5.2
+  },
+  {
+    "movie_title": "Bigga Than Ben",
+    "genre": "Action",
+    "release_date": "4/24/2004",
+    "director": "Ruperto Althorpe",
+    "rating": 5.4
+  },
+  {
+    "movie_title": "House Is Black, The",
+    "genre": "Drama",
+    "release_date": "12/10/2016",
+    "director": "Huntlee Hawthorn",
+    "rating": 8.0
+  },
+  {
+    "movie_title": "Burning Bright",
+    "genre": "Comedy",
+    "release_date": "11/10/2020",
+    "director": "Alfonso Sager",
+    "rating": 9.5
+  },
+  {
+    "movie_title": "Sacrament, The",
+    "genre": "Action",
+    "release_date": "10/25/2014",
+    "director": "Carlota Mattam",
+    "rating": 9.8
+  },
+  {
+    "movie_title": "Police Academy 2: Their First Assignment",
+    "genre": "Action",
+    "release_date": "10/6/2017",
+    "director": "Hallsy Digginson",
+    "rating": 5.0
+  },
+  {
+    "movie_title": "Camila",
+    "genre": "Action",
+    "release_date": "12/3/2012",
+    "director": "Tomaso Theze",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "Great Happiness Space, The: Tale of an Osaka Love Thief",
+    "genre": "Sci-Fi",
+    "release_date": "4/5/2010",
+    "director": "Cathlene McAirt",
+    "rating": 8.3
+  },
+  {
+    "movie_title": "Hush",
+    "genre": "Horror",
+    "release_date": "3/25/2020",
+    "director": "Anastasie Nolin",
+    "rating": 5.8
+  },
+  {
+    "movie_title": "Heartbreak Hotel",
+    "genre": "Drama",
+    "release_date": "2/15/2019",
+    "director": "Jamill Caris",
+    "rating": 3.2
+  },
+  {
+    "movie_title": "Eight Miles High (Das wilde Leben)",
+    "genre": "Action",
+    "release_date": "1/26/2007",
+    "director": "Carri MacNeillie",
+    "rating": 3.3
+  },
+  {
+    "movie_title": "Book of Stars, The",
+    "genre": "Horror",
+    "release_date": "3/8/2016",
+    "director": "Bari Wallbutton",
+    "rating": 9.4
+  },
+  {
+    "movie_title": "Return of the Living Dead: Rave to the Grave",
+    "genre": "Horror",
+    "release_date": "2/14/2008",
+    "director": "Ichabod Coverly",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "Todos eran culpables",
+    "genre": "Drama",
+    "release_date": "10/22/2013",
+    "director": "Zandra Carratt",
+    "rating": 4.2
+  },
+  {
+    "movie_title": "Jupiter Ascending",
+    "genre": "Drama",
+    "release_date": "3/25/2005",
+    "director": "Catriona Tille",
+    "rating": 1.0
+  },
+  {
+    "movie_title": "Whipped",
+    "genre": "Action",
+    "release_date": "12/17/2020",
+    "director": "Drud Folling",
+    "rating": 1.2
+  },
+  {
+    "movie_title": "Americanization of Emily, The",
+    "genre": "Comedy",
+    "release_date": "11/18/2010",
+    "director": "Jourdain Posnette",
+    "rating": 1.4
+  },
+  {
+    "movie_title": "Betrayal, The (Nerakhoon)",
+    "genre": "Comedy",
+    "release_date": "2/12/2003",
+    "director": "Trev Koenraad",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "The Humanoid",
+    "genre": "Action",
+    "release_date": "7/25/2014",
+    "director": "Steffen Jacobi",
+    "rating": 4.4
+  },
+  {
+    "movie_title": "Rally On! (Ralliraita)",
+    "genre": "Sci-Fi",
+    "release_date": "7/21/2016",
+    "director": "Eugine Shickle",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "Vesku from Finland (Vesku)",
+    "genre": "Sci-Fi",
+    "release_date": "1/22/2000",
+    "director": "Gaby Saffle",
+    "rating": 7.3
+  },
+  {
+    "movie_title": "Hava Nagila: The Movie",
+    "genre": "Sci-Fi",
+    "release_date": "3/13/2000",
+    "director": "Lottie Herculeson",
+    "rating": 7.2
+  },
+  {
+    "movie_title": "Sorrow and Joy (Sorg og glæde)",
+    "genre": "Drama",
+    "release_date": "11/3/2008",
+    "director": "Blinny Balaisot",
+    "rating": 3.3
+  },
+  {
+    "movie_title": "News from a Personal War (Notícias de uma Guerra Particular)",
+    "genre": "Action",
+    "release_date": "9/17/2021",
+    "director": "Willow Rollinson",
+    "rating": 3.0
+  },
+  {
+    "movie_title": "To Gillian on Her 37th Birthday",
+    "genre": "Action",
+    "release_date": "2/17/2006",
+    "director": "Malia Sabie",
+    "rating": 6.5
+  },
+  {
+    "movie_title": "Scenesters, The",
+    "genre": "Comedy",
+    "release_date": "12/14/2011",
+    "director": "Dov Allanson",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Attack on the Iron Coast",
+    "genre": "Sci-Fi",
+    "release_date": "11/30/2009",
+    "director": "Kaja Lippingwell",
+    "rating": 6.1
+  },
+  {
+    "movie_title": "Ghost Ship, The",
+    "genre": "Horror",
+    "release_date": "7/12/2017",
+    "director": "Adriane Goudge",
+    "rating": 8.5
+  },
+  {
+    "movie_title": "James Dean Remembered",
+    "genre": "Comedy",
+    "release_date": "12/5/2017",
+    "director": "Trumann Hallard",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "No Deposit, No Return",
+    "genre": "Horror",
+    "release_date": "6/26/2018",
+    "director": "Kizzee Furmagier",
+    "rating": 6.5
+  },
+  {
+    "movie_title": "1984 (Nineteen Eighty-Four)",
+    "genre": "Comedy",
+    "release_date": "3/18/2004",
+    "director": "Langsdon Filchakov",
+    "rating": 2.0
+  },
+  {
+    "movie_title": "Legend of Zorro, The",
+    "genre": "Drama",
+    "release_date": "6/11/2018",
+    "director": "Lynett Titley",
+    "rating": 9.9
+  },
+  {
+    "movie_title": "Halloweentown II: Kalabar's Revenge",
+    "genre": "Horror",
+    "release_date": "7/24/2011",
+    "director": "Tomas Britnell",
+    "rating": 8.0
+  },
+  {
+    "movie_title": "King of Fighters, The",
+    "genre": "Horror",
+    "release_date": "10/8/2018",
+    "director": "Alex Stuckford",
+    "rating": 6.3
+  },
+  {
+    "movie_title": "Chicks with Sticks",
+    "genre": "Horror",
+    "release_date": "5/15/2009",
+    "director": "Ransell Farndon",
+    "rating": 6.9
+  },
+  {
+    "movie_title": "Going Overboard",
+    "genre": "Horror",
+    "release_date": "9/14/2006",
+    "director": "Jacintha Burdge",
+    "rating": 9.0
+  },
+  {
+    "movie_title": "Min and Bill",
+    "genre": "Horror",
+    "release_date": "4/6/2012",
+    "director": "Marget Duffus",
+    "rating": 1.3
+  },
+  {
+    "movie_title": "Pursuit of the Graf Spee (Battle of the River Plate, The)",
+    "genre": "Action",
+    "release_date": "1/28/2003",
+    "director": "Erwin Doodson",
+    "rating": 2.7
+  },
+  {
+    "movie_title": "Hey Bartender",
+    "genre": "Horror",
+    "release_date": "11/28/2007",
+    "director": "Valenka Headings",
+    "rating": 1.5
+  },
+  {
+    "movie_title": "Gamera vs. Barugon",
+    "genre": "Horror",
+    "release_date": "4/28/2009",
+    "director": "Yanaton Densham",
+    "rating": 5.4
+  },
+  {
+    "movie_title": "Frisco Kid, The",
+    "genre": "Action",
+    "release_date": "12/12/2018",
+    "director": "Nessa Attew",
+    "rating": 5.0
+  },
+  {
+    "movie_title": "In God We Teach",
+    "genre": "Horror",
+    "release_date": "9/6/2004",
+    "director": "Hort Chidgey",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Welcome Mr. Marshall (Bienvenido Mister Marshall)",
+    "genre": "Comedy",
+    "release_date": "7/4/2001",
+    "director": "Zoe Cason",
+    "rating": 9.8
+  },
+  {
+    "movie_title": "Jungle Fever",
+    "genre": "Drama",
+    "release_date": "8/13/2021",
+    "director": "Cosme Kuhl",
+    "rating": 6.8
+  },
+  {
+    "movie_title": "Behind the Candelabra",
+    "genre": "Horror",
+    "release_date": "4/14/2022",
+    "director": "Thaxter Hammerman",
+    "rating": 9.5
+  },
+  {
+    "movie_title": "Get Carter",
+    "genre": "Horror",
+    "release_date": "12/9/2005",
+    "director": "Winnifred Knight",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "Abols Upe",
+    "genre": "Drama",
+    "release_date": "8/19/2006",
+    "director": "Salvador Yakunchikov",
+    "rating": 7.4
+  },
+  {
+    "movie_title": "Garden of Allah, The",
+    "genre": "Horror",
+    "release_date": "8/2/2008",
+    "director": "Kim Kilbee",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "Billy Elliot",
+    "genre": "Horror",
+    "release_date": "5/20/2011",
+    "director": "Kaine Pariss",
+    "rating": 7.2
+  },
+  {
+    "movie_title": "Born in East L.A.",
+    "genre": "Sci-Fi",
+    "release_date": "9/20/2022",
+    "director": "Jamaal Rawll",
+    "rating": 9.4
+  },
+  {
+    "movie_title": "Fast, Cheap & Out of Control",
+    "genre": "Horror",
+    "release_date": "9/6/2005",
+    "director": "Bonni McLachlan",
+    "rating": 4.4
+  },
+  {
+    "movie_title": "Man Who Sued God, The",
+    "genre": "Comedy",
+    "release_date": "12/13/2007",
+    "director": "Danila Chazerand",
+    "rating": 3.2
+  },
+  {
+    "movie_title": "Seas Beneath",
+    "genre": "Horror",
+    "release_date": "11/3/2009",
+    "director": "Ximenes Blankhorn",
+    "rating": 2.7
+  },
+  {
+    "movie_title": "Inglourious Basterds",
+    "genre": "Horror",
+    "release_date": "7/27/2019",
+    "director": "Jarrid Scruton",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "Fear",
+    "genre": "Action",
+    "release_date": "7/20/2001",
+    "director": "Ossie Skeermer",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "Global Metal",
+    "genre": "Action",
+    "release_date": "10/24/2013",
+    "director": "Henryetta Camerati",
+    "rating": 4.4
+  },
+  {
+    "movie_title": "McConkey",
+    "genre": "Horror",
+    "release_date": "6/6/2013",
+    "director": "Salem Grishkov",
+    "rating": 9.2
+  },
+  {
+    "movie_title": "Lawnmower Man, The",
+    "genre": "Horror",
+    "release_date": "10/1/2010",
+    "director": "Beck Stanway",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "Interstate 60",
+    "genre": "Sci-Fi",
+    "release_date": "6/6/2010",
+    "director": "Trace Doige",
+    "rating": 10.0
+  },
+  {
+    "movie_title": "Taxi Blues",
+    "genre": "Horror",
+    "release_date": "2/21/2019",
+    "director": "Mannie Chatten",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "Anastasia",
+    "genre": "Horror",
+    "release_date": "12/9/2006",
+    "director": "Julita Vogl",
+    "rating": 1.3
+  },
+  {
+    "movie_title": "White Material",
+    "genre": "Horror",
+    "release_date": "5/1/2001",
+    "director": "Janine Berndtssen",
+    "rating": 4.8
+  },
+  {
+    "movie_title": "Haunting in Connecticut, The",
+    "genre": "Horror",
+    "release_date": "7/22/2013",
+    "director": "Miller Maybey",
+    "rating": 3.4
+  },
+  {
+    "movie_title": "Almost an Angel",
+    "genre": "Horror",
+    "release_date": "4/16/2010",
+    "director": "Gunar Tompkinson",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "Rapid Fire",
+    "genre": "Horror",
+    "release_date": "12/31/2002",
+    "director": "Brandi Spuffard",
+    "rating": 5.0
+  },
+  {
+    "movie_title": "Van Gogh",
+    "genre": "Action",
+    "release_date": "8/14/2019",
+    "director": "Pattin Sebley",
+    "rating": 3.5
+  },
+  {
+    "movie_title": "Tanguy",
+    "genre": "Sci-Fi",
+    "release_date": "11/30/2020",
+    "director": "Gene Conti",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Voyage to the Prehistoric Planet",
+    "genre": "Horror",
+    "release_date": "9/4/2001",
+    "director": "Lambert Ventham",
+    "rating": 9.5
+  },
+  {
+    "movie_title": "I Bought a Vampire Motorcycle",
+    "genre": "Action",
+    "release_date": "10/6/2019",
+    "director": "Collette Clint",
+    "rating": 6.5
+  },
+  {
+    "movie_title": "Fright",
+    "genre": "Horror",
+    "release_date": "8/8/2022",
+    "director": "Minta Fallowes",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Berta's Motives (Los motivos de Berta: Fantasía de Pubertad)",
+    "genre": "Horror",
+    "release_date": "9/7/2000",
+    "director": "Godfry Swanborrow",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "When Time Ran Out... (Day the World Ended, The)",
+    "genre": "Sci-Fi",
+    "release_date": "4/25/2009",
+    "director": "Marlane Tonry",
+    "rating": 4.1
+  },
+  {
+    "movie_title": "China Seas",
+    "genre": "Comedy",
+    "release_date": "10/8/2016",
+    "director": "Jermaine Ilett",
+    "rating": 9.9
+  },
+  {
+    "movie_title": "6 Days to Air: The Making of South Park",
+    "genre": "Sci-Fi",
+    "release_date": "6/9/2000",
+    "director": "Garrett Hadleigh",
+    "rating": 3.5
+  },
+  {
+    "movie_title": "To Catch a Thief",
+    "genre": "Drama",
+    "release_date": "5/18/2018",
+    "director": "Leila Canto",
+    "rating": 1.4
+  },
+  {
+    "movie_title": "I Never Promised You a Rose Garden",
+    "genre": "Action",
+    "release_date": "10/6/2011",
+    "director": "Bird Licciardi",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Night Watch (Nochnoy dozor)",
+    "genre": "Action",
+    "release_date": "1/5/2001",
+    "director": "Con Dohrmann",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Cake Eaters, The",
+    "genre": "Action",
+    "release_date": "3/8/2019",
+    "director": "Rollie Saur",
+    "rating": 9.4
+  },
+  {
+    "movie_title": "Passage to Marseille",
+    "genre": "Sci-Fi",
+    "release_date": "9/8/2017",
+    "director": "Alexandrina Bettridge",
+    "rating": 6.5
+  },
+  {
+    "movie_title": "Behind the Sun (Abril Despedaçado)",
+    "genre": "Comedy",
+    "release_date": "6/10/2019",
+    "director": "Harmon Sparks",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "Journey to the Far Side of the Sun (a.k.a. Doppelgänger)",
+    "genre": "Comedy",
+    "release_date": "1/1/2016",
+    "director": "Scottie Livesley",
+    "rating": 2.5
+  },
+  {
+    "movie_title": "Bernard and Doris",
+    "genre": "Horror",
+    "release_date": "10/12/2022",
+    "director": "Melisenda de Courcy",
+    "rating": 1.1
+  },
+  {
+    "movie_title": "Thomas Crown Affair, The",
+    "genre": "Action",
+    "release_date": "7/24/2016",
+    "director": "Alis Hainey",
+    "rating": 5.5
+  },
+  {
+    "movie_title": "Ever After: A Cinderella Story",
+    "genre": "Action",
+    "release_date": "10/31/2016",
+    "director": "Netta Levick",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Footloose",
+    "genre": "Sci-Fi",
+    "release_date": "12/23/2006",
+    "director": "Vinnie Swayton",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "Forbidden Christ, The (Cristo proibito, Il)",
+    "genre": "Drama",
+    "release_date": "12/29/2011",
+    "director": "Stephanus Slocom",
+    "rating": 9.0
+  },
+  {
+    "movie_title": "Fast and the Furious, The",
+    "genre": "Horror",
+    "release_date": "8/31/2020",
+    "director": "Madelina Bacon",
+    "rating": 7.9
+  },
+  {
+    "movie_title": "Living Sea, The",
+    "genre": "Drama",
+    "release_date": "5/3/2019",
+    "director": "Eugine Nash",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+    "genre": "Sci-Fi",
+    "release_date": "2/5/2014",
+    "director": "Tova Asee",
+    "rating": 7.7
+  },
+  {
+    "movie_title": "Belle of the Nineties",
+    "genre": "Sci-Fi",
+    "release_date": "7/31/2017",
+    "director": "Pincas Rickesies",
+    "rating": 3.5
+  },
+  {
+    "movie_title": "Most Likely to Succeed",
+    "genre": "Drama",
+    "release_date": "9/13/2013",
+    "director": "Chanda Terrazzo",
+    "rating": 6.8
+  },
+  {
+    "movie_title": "Decade Under the Influence, A",
+    "genre": "Comedy",
+    "release_date": "8/11/2012",
+    "director": "Eric Hamil",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "Thurgood",
+    "genre": "Sci-Fi",
+    "release_date": "9/25/2017",
+    "director": "Walliw Ollerhead",
+    "rating": 1.3
+  },
+  {
+    "movie_title": "Topper",
+    "genre": "Sci-Fi",
+    "release_date": "7/12/2009",
+    "director": "Eadie Weyland",
+    "rating": 3.6
+  },
+  {
+    "movie_title": "Get Well Soon",
+    "genre": "Comedy",
+    "release_date": "7/11/2010",
+    "director": "Joellen Tasseler",
+    "rating": 2.1
+  },
+  {
+    "movie_title": "Zombies of the Stratosphere",
+    "genre": "Sci-Fi",
+    "release_date": "1/19/2009",
+    "director": "Gigi Campe",
+    "rating": 4.8
+  },
+  {
+    "movie_title": "MC5: Kick Out the Jams",
+    "genre": "Action",
+    "release_date": "8/16/2005",
+    "director": "Sol Mc Carrick",
+    "rating": 9.5
+  },
+  {
+    "movie_title": "Shopworn Angel, The",
+    "genre": "Sci-Fi",
+    "release_date": "8/1/2002",
+    "director": "Cesare Ewan",
+    "rating": 8.7
+  },
+  {
+    "movie_title": "After Fall, Winter",
+    "genre": "Sci-Fi",
+    "release_date": "1/13/2015",
+    "director": "Emalia Lesser",
+    "rating": 2.5
+  },
+  {
+    "movie_title": "Twilight Saga: Breaking Dawn - Part 2, The",
+    "genre": "Action",
+    "release_date": "5/14/2011",
+    "director": "Alyson Cardus",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "Patrick",
+    "genre": "Drama",
+    "release_date": "3/13/2003",
+    "director": "Stephanie Milborn",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "All About the Feathers (Por Las Plumas)",
+    "genre": "Action",
+    "release_date": "3/27/2015",
+    "director": "Dacia de Bullion",
+    "rating": 7.1
+  },
+  {
+    "movie_title": "Wrong Arm of the Law, The",
+    "genre": "Comedy",
+    "release_date": "12/30/2009",
+    "director": "Budd Askem",
+    "rating": 4.8
+  },
+  {
+    "movie_title": "Samurai Vendetta",
+    "genre": "Horror",
+    "release_date": "11/14/2008",
+    "director": "Eliot Gravatt",
+    "rating": 3.8
+  },
+  {
+    "movie_title": "Ginger Snaps: Unleashed",
+    "genre": "Drama",
+    "release_date": "5/19/2000",
+    "director": "Huberto Ree",
+    "rating": 4.1
+  },
+  {
+    "movie_title": "Series 7: The Contenders",
+    "genre": "Action",
+    "release_date": "2/4/2019",
+    "director": "Brooks Bamfield",
+    "rating": 2.7
+  },
+  {
+    "movie_title": "Banger Sisters, The",
+    "genre": "Comedy",
+    "release_date": "3/8/2000",
+    "director": "Beverie Laguerre",
+    "rating": 5.8
+  },
+  {
+    "movie_title": "Goal II: Living the Dream",
+    "genre": "Horror",
+    "release_date": "5/29/2008",
+    "director": "Alberto Wass",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "Householder, The (Gharbar)",
+    "genre": "Horror",
+    "release_date": "6/18/2021",
+    "director": "Broderic Barde",
+    "rating": 4.7
+  },
+  {
+    "movie_title": "Deadfall",
+    "genre": "Sci-Fi",
+    "release_date": "7/29/2000",
+    "director": "Karlee Thackham",
+    "rating": 5.7
+  },
+  {
+    "movie_title": "One Life",
+    "genre": "Sci-Fi",
+    "release_date": "9/29/2000",
+    "director": "Kennett Screwton",
+    "rating": 6.5
+  },
+  {
+    "movie_title": "Good Man, A (Un buen hombre)",
+    "genre": "Sci-Fi",
+    "release_date": "1/21/2021",
+    "director": "Katie Laughnan",
+    "rating": 8.3
+  },
+  {
+    "movie_title": "Shrek the Third",
+    "genre": "Action",
+    "release_date": "5/2/2004",
+    "director": "Jonas Christaeas",
+    "rating": 2.6
+  },
+  {
+    "movie_title": "Massacre at Central High",
+    "genre": "Action",
+    "release_date": "3/29/2003",
+    "director": "Francisco Leamy",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "Run",
+    "genre": "Drama",
+    "release_date": "5/26/2002",
+    "director": "Leonard Huckle",
+    "rating": 9.0
+  },
+  {
+    "movie_title": "Bill Maher... But I'm Not Wrong",
+    "genre": "Horror",
+    "release_date": "10/28/2019",
+    "director": "Elsworth Cackett",
+    "rating": 9.5
+  },
+  {
+    "movie_title": "Entity, The",
+    "genre": "Action",
+    "release_date": "9/8/2017",
+    "director": "Booth Roche",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "Voyager (Homo Faber)",
+    "genre": "Comedy",
+    "release_date": "1/14/2001",
+    "director": "Margo Hogbourne",
+    "rating": 2.5
+  },
+  {
+    "movie_title": "Pickpocket",
+    "genre": "Drama",
+    "release_date": "12/21/2015",
+    "director": "Rodrique Davana",
+    "rating": 5.7
+  },
+  {
+    "movie_title": "Atlas Shrugged: Part 1",
+    "genre": "Sci-Fi",
+    "release_date": "7/21/2001",
+    "director": "Erminia Michelin",
+    "rating": 1.2
+  },
+  {
+    "movie_title": "Nomad (Köshpendiler)",
+    "genre": "Horror",
+    "release_date": "9/27/2000",
+    "director": "Alisa Bonson",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Christine",
+    "genre": "Drama",
+    "release_date": "1/1/2006",
+    "director": "Faulkner Huddlestone",
+    "rating": 1.7
+  },
+  {
+    "movie_title": "Rhyme & Reason",
+    "genre": "Horror",
+    "release_date": "7/10/2022",
+    "director": "Tracey Mulholland",
+    "rating": 5.3
+  },
+  {
+    "movie_title": "Wanted",
+    "genre": "Action",
+    "release_date": "6/25/2006",
+    "director": "Amii Kidstoun",
+    "rating": 5.2
+  },
+  {
+    "movie_title": "Killer Elite",
+    "genre": "Drama",
+    "release_date": "12/22/2016",
+    "director": "Jessi Tyce",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "District 9",
+    "genre": "Drama",
+    "release_date": "9/3/2006",
+    "director": "Hillery Dy",
+    "rating": 7.3
+  },
+  {
+    "movie_title": "Lorenzo's Oil",
+    "genre": "Horror",
+    "release_date": "10/29/2003",
+    "director": "Gill Cowins",
+    "rating": 6.3
+  },
+  {
+    "movie_title": "My Best Girl",
+    "genre": "Action",
+    "release_date": "12/27/2003",
+    "director": "Neil Claasen",
+    "rating": 2.7
+  },
+  {
+    "movie_title": "It Started with Eve",
+    "genre": "Drama",
+    "release_date": "4/29/2021",
+    "director": "Ambrosio Lutton",
+    "rating": 8.1
+  },
+  {
+    "movie_title": "James Gandolfini: Tribute to a Friend",
+    "genre": "Comedy",
+    "release_date": "11/19/2017",
+    "director": "Josephina Besse",
+    "rating": 9.2
+  },
+  {
+    "movie_title": "Leather Jacket Love Story",
+    "genre": "Action",
+    "release_date": "3/18/2002",
+    "director": "Damien Dupree",
+    "rating": 8.0
+  },
+  {
+    "movie_title": "Joni's Promise",
+    "genre": "Comedy",
+    "release_date": "11/12/2005",
+    "director": "Matteo Matyushonok",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "For the Love of Movies",
+    "genre": "Horror",
+    "release_date": "11/16/2019",
+    "director": "Arabele Meehan",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Winged Creatures (Fragments)",
+    "genre": "Sci-Fi",
+    "release_date": "11/19/2018",
+    "director": "Cassondra Phippard",
+    "rating": 2.8
+  },
+  {
+    "movie_title": "Right America: Feeling Wronged - Some Voices from the Campaign Trail ",
+    "genre": "Sci-Fi",
+    "release_date": "9/11/2002",
+    "director": "Mina Ebbin",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Life is a Bed of Roses (Vie est un roman, La)",
+    "genre": "Sci-Fi",
+    "release_date": "1/21/2008",
+    "director": "Neale Mepsted",
+    "rating": 5.0
+  },
+  {
+    "movie_title": "Bad Blood: A Cautionary Tale ",
+    "genre": "Sci-Fi",
+    "release_date": "6/30/2018",
+    "director": "Saxon Astle",
+    "rating": 4.7
+  },
+  {
+    "movie_title": "Snows of Kilimanjaro, The",
+    "genre": "Sci-Fi",
+    "release_date": "7/22/2013",
+    "director": "Wes Bessell",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "Pokémon the Movie: White - Victini and Zekrom",
+    "genre": "Sci-Fi",
+    "release_date": "12/18/2011",
+    "director": "Tedie Benbow",
+    "rating": 9.8
+  },
+  {
+    "movie_title": "Signs",
+    "genre": "Sci-Fi",
+    "release_date": "4/10/2011",
+    "director": "Davey Brabben",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Dog Run",
+    "genre": "Drama",
+    "release_date": "9/6/2020",
+    "director": "Chrissie Luety",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Bit by Bit",
+    "genre": "Comedy",
+    "release_date": "3/27/2009",
+    "director": "Boothe Cordoba",
+    "rating": 9.1
+  },
+  {
+    "movie_title": "Mission: Impossible",
+    "genre": "Comedy",
+    "release_date": "6/11/2003",
+    "director": "Roseann Scarce",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "Verboten!",
+    "genre": "Drama",
+    "release_date": "7/30/2005",
+    "director": "Bentlee Knutsen",
+    "rating": 4.1
+  },
+  {
+    "movie_title": "Aziz Ansari: Intimate Moments for a Sensual Evening",
+    "genre": "Action",
+    "release_date": "3/22/2008",
+    "director": "Theo Dillet",
+    "rating": 5.5
+  },
+  {
+    "movie_title": "Thumbelina",
+    "genre": "Sci-Fi",
+    "release_date": "10/27/2005",
+    "director": "Breena Handaside",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Andrew Dice Clay: Indestructible",
+    "genre": "Horror",
+    "release_date": "9/9/2008",
+    "director": "Hyacinthe Lucia",
+    "rating": 1.4
+  },
+  {
+    "movie_title": "Topralli",
+    "genre": "Action",
+    "release_date": "5/24/2017",
+    "director": "Daron Lomis",
+    "rating": 3.2
+  },
+  {
+    "movie_title": "A.C.O.D.",
+    "genre": "Horror",
+    "release_date": "11/27/2008",
+    "director": "Katey Kempster",
+    "rating": 9.8
+  },
+  {
+    "movie_title": "Kung Fu Panda: Secrets of the Furious Five",
+    "genre": "Sci-Fi",
+    "release_date": "1/16/2006",
+    "director": "Aubry Kalf",
+    "rating": 1.1
+  },
+  {
+    "movie_title": "One Spy Too Many",
+    "genre": "Comedy",
+    "release_date": "2/21/2014",
+    "director": "Constantine Heel",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "Sube y Baja",
+    "genre": "Comedy",
+    "release_date": "6/18/2010",
+    "director": "Minta Bahls",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Wild River",
+    "genre": "Comedy",
+    "release_date": "11/21/2010",
+    "director": "Anet Olford",
+    "rating": 5.9
+  },
+  {
+    "movie_title": "Belly of the Beast",
+    "genre": "Sci-Fi",
+    "release_date": "1/18/2002",
+    "director": "Garry Fetter",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "Major Movie Star",
+    "genre": "Horror",
+    "release_date": "3/17/2018",
+    "director": "Beth Manley",
+    "rating": 5.3
+  },
+  {
+    "movie_title": "Night Moves",
+    "genre": "Horror",
+    "release_date": "1/27/2012",
+    "director": "Kittie Silverstone",
+    "rating": 7.8
+  },
+  {
+    "movie_title": "Grosse Pointe Blank",
+    "genre": "Sci-Fi",
+    "release_date": "10/2/2005",
+    "director": "Hillel Cossar",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Living Wake, The",
+    "genre": "Drama",
+    "release_date": "11/6/2012",
+    "director": "Colan Flecknoe",
+    "rating": 7.8
+  },
+  {
+    "movie_title": "I Are You, You Am Me (Tenkosei)",
+    "genre": "Horror",
+    "release_date": "1/13/2014",
+    "director": "Corbett Aldrin",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Pigskin Parade",
+    "genre": "Drama",
+    "release_date": "10/9/2013",
+    "director": "Trixy Tackley",
+    "rating": 8.4
+  },
+  {
+    "movie_title": "Murder on a Honeymoon",
+    "genre": "Horror",
+    "release_date": "3/22/2003",
+    "director": "Correy Spinella",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "Dead on Time",
+    "genre": "Sci-Fi",
+    "release_date": "12/29/2000",
+    "director": "Ermin Riddlesden",
+    "rating": 5.9
+  },
+  {
+    "movie_title": "Lamerica",
+    "genre": "Action",
+    "release_date": "4/16/2013",
+    "director": "Bliss Shearston",
+    "rating": 4.1
+  },
+  {
+    "movie_title": "Not for or Against (Quite the Contrary) (Ni pour, ni contre (bien au contraire))",
+    "genre": "Horror",
+    "release_date": "3/12/2022",
+    "director": "Seana Springate",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "Into the Wild",
+    "genre": "Comedy",
+    "release_date": "12/8/2021",
+    "director": "Robbin Coulter",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Wild Seven",
+    "genre": "Horror",
+    "release_date": "7/1/2007",
+    "director": "Dov Cocklin",
+    "rating": 4.5
+  },
+  {
+    "movie_title": "Malice N Wonderland",
+    "genre": "Drama",
+    "release_date": "7/27/2002",
+    "director": "Starlene Sainter",
+    "rating": 8.5
+  },
+  {
+    "movie_title": "Julie Johnson",
+    "genre": "Sci-Fi",
+    "release_date": "3/7/2004",
+    "director": "Jessamine Fenn",
+    "rating": 3.0
+  },
+  {
+    "movie_title": "Edge of Madness",
+    "genre": "Drama",
+    "release_date": "5/18/2003",
+    "director": "Jillayne Rembrant",
+    "rating": 2.8
+  },
+  {
+    "movie_title": "Good Ol' Freda",
+    "genre": "Comedy",
+    "release_date": "4/7/2005",
+    "director": "Levi Kellard",
+    "rating": 4.2
+  },
+  {
+    "movie_title": "Mrs. Parker and the Vicious Circle",
+    "genre": "Action",
+    "release_date": "8/13/2009",
+    "director": "Rosina Ticksall",
+    "rating": 5.4
+  },
+  {
+    "movie_title": "Play",
+    "genre": "Horror",
+    "release_date": "4/27/2018",
+    "director": "Lionello Algate",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "Story of Vernon and Irene Castle, The",
+    "genre": "Drama",
+    "release_date": "3/16/2003",
+    "director": "Regan Turone",
+    "rating": 4.2
+  },
+  {
+    "movie_title": "Deathstalker",
+    "genre": "Comedy",
+    "release_date": "8/30/2012",
+    "director": "Adey Domenichelli",
+    "rating": 4.4
+  },
+  {
+    "movie_title": "Chances Are",
+    "genre": "Horror",
+    "release_date": "12/5/2018",
+    "director": "Izzy Dunsford",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Buffalo Girls",
+    "genre": "Drama",
+    "release_date": "5/29/2006",
+    "director": "Angelita Thebeaud",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "Male Domination",
+    "genre": "Action",
+    "release_date": "8/6/2009",
+    "director": "Vinson Margrie",
+    "rating": 9.7
+  },
+  {
+    "movie_title": "Like Mike 2: Streetball",
+    "genre": "Action",
+    "release_date": "5/7/2004",
+    "director": "Maryrose Batisse",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Wild Geese II",
+    "genre": "Sci-Fi",
+    "release_date": "1/4/2017",
+    "director": "Ilse Billes",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "What the Day Owes the Night",
+    "genre": "Action",
+    "release_date": "1/18/2022",
+    "director": "Bibi Rappaport",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "Videocracy (Videocracy - Basta apparire)",
+    "genre": "Sci-Fi",
+    "release_date": "8/5/2006",
+    "director": "Camellia Kerfod",
+    "rating": 9.7
+  },
+  {
+    "movie_title": "Pool, The (Swimming Pool - Der Tod feiert mit) ",
+    "genre": "Drama",
+    "release_date": "9/16/2011",
+    "director": "Ugo Turney",
+    "rating": 6.4
+  },
+  {
+    "movie_title": "Chocolat",
+    "genre": "Sci-Fi",
+    "release_date": "4/20/2001",
+    "director": "Antonia Cuffe",
+    "rating": 1.9
+  },
+  {
+    "movie_title": "Dragon Missile, The (Fei long zhan)",
+    "genre": "Comedy",
+    "release_date": "7/4/2017",
+    "director": "Sioux Blacklawe",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Cross of Iron",
+    "genre": "Drama",
+    "release_date": "12/12/2020",
+    "director": "Aldon Gundry",
+    "rating": 1.5
+  },
+  {
+    "movie_title": "Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea)",
+    "genre": "Sci-Fi",
+    "release_date": "2/2/2005",
+    "director": "Prissie Bes",
+    "rating": 3.3
+  },
+  {
+    "movie_title": "Osmosis Jones",
+    "genre": "Drama",
+    "release_date": "3/23/2008",
+    "director": "Dieter Jenne",
+    "rating": 1.1
+  },
+  {
+    "movie_title": "Death in the Garden (Mort en ce jardin, La)",
+    "genre": "Comedy",
+    "release_date": "1/28/2002",
+    "director": "Dianemarie Emilien",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Farinelli: il castrato",
+    "genre": "Drama",
+    "release_date": "4/13/2004",
+    "director": "Mel Meneely",
+    "rating": 5.5
+  },
+  {
+    "movie_title": "The Haunting of Helena",
+    "genre": "Action",
+    "release_date": "1/26/2005",
+    "director": "Grethel Lauderdale",
+    "rating": 6.9
+  },
+  {
+    "movie_title": "Burn Up!",
+    "genre": "Drama",
+    "release_date": "4/19/2000",
+    "director": "Walliw Oloshkin",
+    "rating": 9.2
+  },
+  {
+    "movie_title": "Beautiful Losers",
+    "genre": "Action",
+    "release_date": "3/3/2006",
+    "director": "Porter Nanson",
+    "rating": 9.1
+  },
+  {
+    "movie_title": "True Grit",
+    "genre": "Horror",
+    "release_date": "7/14/2022",
+    "director": "Dorise Thorneywork",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "Tyson",
+    "genre": "Sci-Fi",
+    "release_date": "8/17/2020",
+    "director": "Reuben Benoiton",
+    "rating": 6.1
+  },
+  {
+    "movie_title": "Slave Ship",
+    "genre": "Sci-Fi",
+    "release_date": "6/26/2003",
+    "director": "Lorin Baguley",
+    "rating": 9.0
+  },
+  {
+    "movie_title": "Big Pun: The Legacy",
+    "genre": "Horror",
+    "release_date": "11/15/2014",
+    "director": "Shel Witt",
+    "rating": 9.1
+  },
+  {
+    "movie_title": "Dragonlance: Dragons of Autumn Twilight",
+    "genre": "Drama",
+    "release_date": "1/7/2011",
+    "director": "Hort Haestier",
+    "rating": 5.5
+  },
+  {
+    "movie_title": "What? (Che?)",
+    "genre": "Action",
+    "release_date": "4/13/2009",
+    "director": "Carolin De Antoni",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "August",
+    "genre": "Comedy",
+    "release_date": "2/7/2006",
+    "director": "Giovanni Balmforth",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Man on the Train (Homme du train, L')",
+    "genre": "Comedy",
+    "release_date": "2/7/2016",
+    "director": "Bel Dancer",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "Beat the Devil",
+    "genre": "Drama",
+    "release_date": "12/29/2013",
+    "director": "Dianna Billingsley",
+    "rating": 7.8
+  },
+  {
+    "movie_title": "Mark Shoots First",
+    "genre": "Drama",
+    "release_date": "6/25/2018",
+    "director": "Sherlock Woodthorpe",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "Pee-wee's Big Adventure",
+    "genre": "Action",
+    "release_date": "11/16/2009",
+    "director": "Dukie MacConnell",
+    "rating": 5.0
+  },
+  {
+    "movie_title": "Fun and Fancy Free",
+    "genre": "Action",
+    "release_date": "7/18/2013",
+    "director": "Tomasina Strugnell",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "Babette Goes to War",
+    "genre": "Horror",
+    "release_date": "2/29/2004",
+    "director": "Irita Estcourt",
+    "rating": 4.7
+  },
+  {
+    "movie_title": "Carmen Comes Home (Karumen kokyo ni kaeru)",
+    "genre": "Horror",
+    "release_date": "4/14/2011",
+    "director": "Sollie Orrum",
+    "rating": 9.9
+  },
+  {
+    "movie_title": "Cowboys & Aliens",
+    "genre": "Horror",
+    "release_date": "2/13/2016",
+    "director": "Maddalena Boffey",
+    "rating": 8.3
+  },
+  {
+    "movie_title": "Boys Diving, Honolulu",
+    "genre": "Action",
+    "release_date": "7/1/2008",
+    "director": "Pammy Till",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "Man Who Saw Tomorrow, The",
+    "genre": "Sci-Fi",
+    "release_date": "5/4/2019",
+    "director": "Michal Coles",
+    "rating": 2.4
+  },
+  {
+    "movie_title": "Electroma",
+    "genre": "Drama",
+    "release_date": "10/13/2012",
+    "director": "Boy Titmus",
+    "rating": 3.2
+  },
+  {
+    "movie_title": "Euphoria (Eyforiya)",
+    "genre": "Horror",
+    "release_date": "10/1/2000",
+    "director": "Suki Mackie",
+    "rating": 5.1
+  },
+  {
+    "movie_title": "Brewster's Millions",
+    "genre": "Comedy",
+    "release_date": "11/19/2016",
+    "director": "Jodi Boerderman",
+    "rating": 4.4
+  },
+  {
+    "movie_title": "Between Two Worlds",
+    "genre": "Comedy",
+    "release_date": "1/6/2019",
+    "director": "Taite Tidswell",
+    "rating": 2.0
+  },
+  {
+    "movie_title": "Red Desert (Deserto rosso, Il)",
+    "genre": "Sci-Fi",
+    "release_date": "6/17/2016",
+    "director": "Kelsy Brusin",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "America the Beautiful 2: The Thin Commandments ",
+    "genre": "Drama",
+    "release_date": "6/25/2015",
+    "director": "Peri Muffitt",
+    "rating": 2.2
+  },
+  {
+    "movie_title": "Brass Teapot, The",
+    "genre": "Comedy",
+    "release_date": "6/1/2000",
+    "director": "Lezlie Crayker",
+    "rating": 2.0
+  },
+  {
+    "movie_title": "Blonde Ambition",
+    "genre": "Sci-Fi",
+    "release_date": "7/6/2004",
+    "director": "Iolande Perrin",
+    "rating": 10.0
+  },
+  {
+    "movie_title": "Aliens of the Deep",
+    "genre": "Horror",
+    "release_date": "9/12/2003",
+    "director": "Kiley Hullett",
+    "rating": 7.7
+  },
+  {
+    "movie_title": "The Blue Room",
+    "genre": "Sci-Fi",
+    "release_date": "4/15/2012",
+    "director": "Neall Antonovic",
+    "rating": 1.9
+  },
+  {
+    "movie_title": "Rick",
+    "genre": "Action",
+    "release_date": "1/7/2014",
+    "director": "Merlina Gepp",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "Maria's Lovers",
+    "genre": "Comedy",
+    "release_date": "11/18/2012",
+    "director": "Bart Antos",
+    "rating": 4.7
+  },
+  {
+    "movie_title": "Donner Pass",
+    "genre": "Action",
+    "release_date": "10/9/2019",
+    "director": "Dahlia Pleasaunce",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "Legalese",
+    "genre": "Drama",
+    "release_date": "8/15/2012",
+    "director": "Euell Matusevich",
+    "rating": 5.9
+  },
+  {
+    "movie_title": "Act in Question, The (Acto en cuestión, El)",
+    "genre": "Drama",
+    "release_date": "1/19/2000",
+    "director": "Joshuah Del Dello",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "Booty Call",
+    "genre": "Action",
+    "release_date": "10/31/2010",
+    "director": "Marybeth Liversedge",
+    "rating": 7.7
+  },
+  {
+    "movie_title": "Heart of a Lion (Leijonasydän)",
+    "genre": "Drama",
+    "release_date": "1/19/2015",
+    "director": "Miran Wolland",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "Moon Man",
+    "genre": "Sci-Fi",
+    "release_date": "9/9/2012",
+    "director": "Lowe Millam",
+    "rating": 4.0
+  },
+  {
+    "movie_title": "Coal Miner's Daughter",
+    "genre": "Comedy",
+    "release_date": "6/27/2015",
+    "director": "Pris Windmill",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "All About Actresses (Le bal des actrices)",
+    "genre": "Sci-Fi",
+    "release_date": "6/20/2001",
+    "director": "Angela Dumingos",
+    "rating": 6.6
+  },
+  {
+    "movie_title": "Food of Love (Manjar de Amor)",
+    "genre": "Comedy",
+    "release_date": "2/8/2016",
+    "director": "Starr Hallum",
+    "rating": 3.0
+  },
+  {
+    "movie_title": "Why We Fight",
+    "genre": "Comedy",
+    "release_date": "8/23/2018",
+    "director": "Madison Scarrott",
+    "rating": 3.2
+  },
+  {
+    "movie_title": "Wolf Creek",
+    "genre": "Sci-Fi",
+    "release_date": "11/11/2012",
+    "director": "Shena Wille",
+    "rating": 5.0
+  },
+  {
+    "movie_title": "Sun Alley (Sonnenallee)",
+    "genre": "Action",
+    "release_date": "8/28/2004",
+    "director": "Kellyann Milkin",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Without Limits",
+    "genre": "Comedy",
+    "release_date": "7/12/2022",
+    "director": "Diana Downing",
+    "rating": 2.1
+  },
+  {
+    "movie_title": "S.P.L.: Kill Zone (Saat po long)",
+    "genre": "Comedy",
+    "release_date": "6/12/2005",
+    "director": "Pamelina Torvey",
+    "rating": 2.8
+  },
+  {
+    "movie_title": "Italian for Beginners (Italiensk for begyndere)",
+    "genre": "Action",
+    "release_date": "2/6/2021",
+    "director": "Nicoli Luetkemeyer",
+    "rating": 2.4
+  },
+  {
+    "movie_title": "Force of Evil",
+    "genre": "Horror",
+    "release_date": "8/13/2011",
+    "director": "Shara Chudleigh",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "Cocaine Cowboys II: Hustlin' With the Godmother",
+    "genre": "Horror",
+    "release_date": "6/29/2016",
+    "director": "Eamon Tustin",
+    "rating": 7.4
+  },
+  {
+    "movie_title": "Big Shot's Funeral (Da Wan)",
+    "genre": "Sci-Fi",
+    "release_date": "11/23/2013",
+    "director": "Vincenty Hirsch",
+    "rating": 4.7
+  },
+  {
+    "movie_title": "Wings",
+    "genre": "Sci-Fi",
+    "release_date": "1/15/2009",
+    "director": "Julienne Trevna",
+    "rating": 4.5
+  },
+  {
+    "movie_title": "Fortress 2",
+    "genre": "Comedy",
+    "release_date": "8/4/2004",
+    "director": "Marketa Adams",
+    "rating": 2.5
+  },
+  {
+    "movie_title": "World War II: When Lions Roared",
+    "genre": "Sci-Fi",
+    "release_date": "3/11/2000",
+    "director": "Sophia Gleadle",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "Charlie Chan in Reno",
+    "genre": "Horror",
+    "release_date": "2/25/2007",
+    "director": "Magda Empringham",
+    "rating": 7.1
+  },
+  {
+    "movie_title": "Hear My Song",
+    "genre": "Sci-Fi",
+    "release_date": "12/8/2009",
+    "director": "Terri Masterman",
+    "rating": 8.0
+  },
+  {
+    "movie_title": "D.L. Hughley: Reset",
+    "genre": "Horror",
+    "release_date": "6/18/2008",
+    "director": "Julianne Herkess",
+    "rating": 7.7
+  },
+  {
+    "movie_title": "Bête humaine, La",
+    "genre": "Action",
+    "release_date": "4/27/2011",
+    "director": "Ginny Outram",
+    "rating": 3.1
+  },
+  {
+    "movie_title": "Conversations with Other Women",
+    "genre": "Comedy",
+    "release_date": "1/23/2009",
+    "director": "Tandi Ireson",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "Crew, The",
+    "genre": "Action",
+    "release_date": "5/10/2002",
+    "director": "Lion O'Cahsedy",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "Master of the House (Du skal ære din hustru) (Thou Shalt Honour Thy Wife)",
+    "genre": "Drama",
+    "release_date": "7/5/2008",
+    "director": "Anatol Assard",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "Notebook, The (A nagy füzet)",
+    "genre": "Sci-Fi",
+    "release_date": "11/2/2017",
+    "director": "Quill O'Criane",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Carry on Screaming!",
+    "genre": "Sci-Fi",
+    "release_date": "2/17/2007",
+    "director": "Thadeus Showen",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Scent of Green Papaya, The (Mùi du du xhan - L'odeur de la papaye verte)",
+    "genre": "Comedy",
+    "release_date": "6/22/2008",
+    "director": "Rodolph Binder",
+    "rating": 1.0
+  },
+  {
+    "movie_title": "Browning Version, The",
+    "genre": "Sci-Fi",
+    "release_date": "5/28/2022",
+    "director": "Jammie Gosenell",
+    "rating": 3.1
+  },
+  {
+    "movie_title": "Videocracy (Videocracy - Basta apparire)",
+    "genre": "Action",
+    "release_date": "3/12/2001",
+    "director": "Steven McRannell",
+    "rating": 7.1
+  },
+  {
+    "movie_title": "Signs",
+    "genre": "Sci-Fi",
+    "release_date": "5/7/2004",
+    "director": "Shae Lacotte",
+    "rating": 6.3
+  },
+  {
+    "movie_title": "Sauna",
+    "genre": "Horror",
+    "release_date": "6/28/2021",
+    "director": "Lyn Simcock",
+    "rating": 1.7
+  },
+  {
+    "movie_title": "American Heist",
+    "genre": "Drama",
+    "release_date": "9/29/2014",
+    "director": "Barny Reams",
+    "rating": 8.7
+  },
+  {
+    "movie_title": "Games of Love and Chance (L'esquive)",
+    "genre": "Action",
+    "release_date": "4/4/2015",
+    "director": "Marice Llewelyn",
+    "rating": 2.1
+  },
+  {
+    "movie_title": "Adopted",
+    "genre": "Action",
+    "release_date": "3/7/2017",
+    "director": "Gardie Benediktovich",
+    "rating": 5.4
+  },
+  {
+    "movie_title": "Sexual Life of the Belgians, The (Vie sexuelle des Belges 1950-1978, La)",
+    "genre": "Sci-Fi",
+    "release_date": "3/25/2009",
+    "director": "Francisco McChesney",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Punk in London",
+    "genre": "Drama",
+    "release_date": "6/3/2004",
+    "director": "Gerty Paterno",
+    "rating": 9.2
+  },
+  {
+    "movie_title": "Kit Kittredge: An American Girl",
+    "genre": "Comedy",
+    "release_date": "5/17/2012",
+    "director": "Delila Phippin",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "Dark Ride",
+    "genre": "Comedy",
+    "release_date": "9/13/2020",
+    "director": "Alva Petrichat",
+    "rating": 3.0
+  },
+  {
+    "movie_title": "Trial of Billy Jack, The",
+    "genre": "Comedy",
+    "release_date": "9/7/2019",
+    "director": "Donny Shwenn",
+    "rating": 9.5
+  },
+  {
+    "movie_title": "It's My Mother's Birthday Today",
+    "genre": "Horror",
+    "release_date": "7/5/2004",
+    "director": "Shanie Brenard",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Universal Soldier: The Return",
+    "genre": "Horror",
+    "release_date": "6/24/2013",
+    "director": "Tricia Rickis",
+    "rating": 7.9
+  },
+  {
+    "movie_title": "Don't Bother to Knock",
+    "genre": "Sci-Fi",
+    "release_date": "10/29/2009",
+    "director": "Dulciana Wetwood",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "Going Clear: Scientology and the Prison of Belief",
+    "genre": "Action",
+    "release_date": "11/17/2009",
+    "director": "Sheila Alliker",
+    "rating": 3.1
+  },
+  {
+    "movie_title": "Let it Rain (Parlez-moi de la pluie)",
+    "genre": "Comedy",
+    "release_date": "2/15/2001",
+    "director": "Lauren Seldon",
+    "rating": 2.8
+  },
+  {
+    "movie_title": "Falling in Love Again",
+    "genre": "Comedy",
+    "release_date": "1/13/2014",
+    "director": "Karrie Sokill",
+    "rating": 1.5
+  },
+  {
+    "movie_title": "Fiddler on the Roof",
+    "genre": "Action",
+    "release_date": "12/13/2006",
+    "director": "Bertrand Randle",
+    "rating": 9.0
+  },
+  {
+    "movie_title": "Force 10 from Navarone",
+    "genre": "Drama",
+    "release_date": "9/10/2007",
+    "director": "Verina D'Alesio",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "Somebody to Love",
+    "genre": "Drama",
+    "release_date": "11/25/2003",
+    "director": "Nicol Craigs",
+    "rating": 6.8
+  },
+  {
+    "movie_title": "What! No Beer?",
+    "genre": "Comedy",
+    "release_date": "9/17/2013",
+    "director": "Jacquenetta Pluvier",
+    "rating": 7.9
+  },
+  {
+    "movie_title": "Nordkraft",
+    "genre": "Comedy",
+    "release_date": "11/8/2006",
+    "director": "Lotty Haxby",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "Greenberg",
+    "genre": "Drama",
+    "release_date": "7/17/2008",
+    "director": "Garth Van der Krui",
+    "rating": 9.9
+  },
+  {
+    "movie_title": "Circle of Eight",
+    "genre": "Drama",
+    "release_date": "7/21/2002",
+    "director": "Brnaby Dibdall",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "Theory of Everything, The",
+    "genre": "Comedy",
+    "release_date": "2/22/2011",
+    "director": "Darbee Tibb",
+    "rating": 8.1
+  },
+  {
+    "movie_title": "Seeking Asian Female",
+    "genre": "Drama",
+    "release_date": "11/11/2017",
+    "director": "Faustine Boundey",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "Boys Love",
+    "genre": "Drama",
+    "release_date": "4/13/2009",
+    "director": "Alexandra Talman",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Flirting",
+    "genre": "Drama",
+    "release_date": "2/17/2008",
+    "director": "Brod Donlon",
+    "rating": 6.3
+  },
+  {
+    "movie_title": "Loved One, The",
+    "genre": "Horror",
+    "release_date": "12/10/2011",
+    "director": "Bale Antoney",
+    "rating": 1.0
+  },
+  {
+    "movie_title": "Big Green, The",
+    "genre": "Horror",
+    "release_date": "11/19/2020",
+    "director": "Paige Fishby",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "Jacket, The",
+    "genre": "Drama",
+    "release_date": "3/2/2002",
+    "director": "Beatrix Jouhning",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "Dogs in Space",
+    "genre": "Action",
+    "release_date": "9/17/2002",
+    "director": "Malva Nolleth",
+    "rating": 6.6
+  },
+  {
+    "movie_title": "Loose Cannons (Mine vaganti)",
+    "genre": "Action",
+    "release_date": "10/16/2004",
+    "director": "Donelle Mitro",
+    "rating": 6.3
+  },
+  {
+    "movie_title": "Don't Tempt Me (Sin noticias de Dios)",
+    "genre": "Action",
+    "release_date": "1/2/2002",
+    "director": "Matty Haig",
+    "rating": 3.0
+  },
+  {
+    "movie_title": "My Life",
+    "genre": "Sci-Fi",
+    "release_date": "2/5/2017",
+    "director": "Shaylynn Dunkley",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Short Film About Love, A (Krótki film o milosci)",
+    "genre": "Drama",
+    "release_date": "11/12/2012",
+    "director": "Leticia Ovey",
+    "rating": 1.0
+  },
+  {
+    "movie_title": "Little Traitor, The",
+    "genre": "Sci-Fi",
+    "release_date": "5/25/2009",
+    "director": "Ashil Piddocke",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "Day After, The",
+    "genre": "Horror",
+    "release_date": "11/24/2019",
+    "director": "Lacie Sacco",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "Summer Stock",
+    "genre": "Sci-Fi",
+    "release_date": "4/14/2005",
+    "director": "Eirena Parke",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "Shadows (Cienie)",
+    "genre": "Comedy",
+    "release_date": "11/2/2011",
+    "director": "Rollins Codrington",
+    "rating": 4.5
+  },
+  {
+    "movie_title": "Fine Pair, A (Ruba al prossimo tuo)",
+    "genre": "Horror",
+    "release_date": "1/18/2007",
+    "director": "Noni Deboo",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "Dead Weekend",
+    "genre": "Drama",
+    "release_date": "1/22/2005",
+    "director": "Sunny Seakings",
+    "rating": 8.7
+  },
+  {
+    "movie_title": "Song of Sparrows, The (Avaze gonjeshk-ha)",
+    "genre": "Drama",
+    "release_date": "4/9/2020",
+    "director": "Garry McKeggie",
+    "rating": 6.6
+  },
+  {
+    "movie_title": "The Amazing Screw-On Head",
+    "genre": "Action",
+    "release_date": "3/6/2013",
+    "director": "Goldia Eggar",
+    "rating": 1.9
+  },
+  {
+    "movie_title": "Nanny McPhee Returns (a.k.a. Nanny McPhee and the Big Bang)",
+    "genre": "Action",
+    "release_date": "2/7/2021",
+    "director": "Betta Skeermor",
+    "rating": 5.4
+  },
+  {
+    "movie_title": "Wedding Bell Blues",
+    "genre": "Sci-Fi",
+    "release_date": "2/3/2012",
+    "director": "Micky Haddington",
+    "rating": 5.1
+  },
+  {
+    "movie_title": "Polyester",
+    "genre": "Action",
+    "release_date": "7/28/2002",
+    "director": "Rowney Darton",
+    "rating": 8.4
+  },
+  {
+    "movie_title": "Broken Windows",
+    "genre": "Drama",
+    "release_date": "3/14/2008",
+    "director": "Hannie Mallabon",
+    "rating": 7.8
+  },
+  {
+    "movie_title": "Toomorrow",
+    "genre": "Action",
+    "release_date": "11/26/2020",
+    "director": "Meir Paulich",
+    "rating": 5.4
+  },
+  {
+    "movie_title": "Temptations, The",
+    "genre": "Drama",
+    "release_date": "4/25/2018",
+    "director": "Halimeda Croom",
+    "rating": 9.7
+  },
+  {
+    "movie_title": "Let's Not Get Angry (Ne nous fâchons pas)",
+    "genre": "Horror",
+    "release_date": "6/1/2022",
+    "director": "Goldy Sheddan",
+    "rating": 7.3
+  },
+  {
+    "movie_title": "Accused, The",
+    "genre": "Comedy",
+    "release_date": "8/10/2015",
+    "director": "Tiphani Paulin",
+    "rating": 7.3
+  },
+  {
+    "movie_title": "Apartment Zero",
+    "genre": "Horror",
+    "release_date": "7/29/2000",
+    "director": "Orsola Sydall",
+    "rating": 7.8
+  },
+  {
+    "movie_title": "One Little Indian",
+    "genre": "Horror",
+    "release_date": "1/16/2002",
+    "director": "Phillipp Fandrey",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "Blood Out",
+    "genre": "Comedy",
+    "release_date": "8/25/2010",
+    "director": "Katinka Sexcey",
+    "rating": 8.4
+  },
+  {
+    "movie_title": "Shock and Awe: The Story of Electricity",
+    "genre": "Comedy",
+    "release_date": "6/17/2013",
+    "director": "Carly Banfill",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Maelström",
+    "genre": "Comedy",
+    "release_date": "10/2/2017",
+    "director": "Chloe Gerrey",
+    "rating": 7.9
+  },
+  {
+    "movie_title": "B.U.S.T.E.D (Everybody Loves Sunshine) (Busted)",
+    "genre": "Comedy",
+    "release_date": "6/1/2004",
+    "director": "Lek McGaffey",
+    "rating": 2.7
+  },
+  {
+    "movie_title": "Uncle Buck",
+    "genre": "Drama",
+    "release_date": "9/7/2002",
+    "director": "Remus Morteo",
+    "rating": 9.8
+  },
+  {
+    "movie_title": "Jumbo (Billy Rose's Jumbo)",
+    "genre": "Drama",
+    "release_date": "2/11/2017",
+    "director": "Giuseppe McNutt",
+    "rating": 9.8
+  },
+  {
+    "movie_title": "Bombshell",
+    "genre": "Comedy",
+    "release_date": "3/4/2012",
+    "director": "Delora Monkleigh",
+    "rating": 4.4
+  },
+  {
+    "movie_title": "Kirikou and the Sorceress (Kirikou et la sorcière)",
+    "genre": "Drama",
+    "release_date": "3/19/2009",
+    "director": "Ingra Goodbairn",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Swan, The",
+    "genre": "Sci-Fi",
+    "release_date": "11/28/2004",
+    "director": "Cesare Jane",
+    "rating": 3.4
+  },
+  {
+    "movie_title": "Book of Fate, The (Kohtalon kirja)",
+    "genre": "Drama",
+    "release_date": "6/17/2018",
+    "director": "Chrissy McNamee",
+    "rating": 8.2
+  },
+  {
+    "movie_title": "Drevo",
+    "genre": "Action",
+    "release_date": "5/24/2013",
+    "director": "Ronny Sarten",
+    "rating": 5.3
+  },
+  {
+    "movie_title": "Destroy All Monsters (Kaijû sôshingeki)",
+    "genre": "Horror",
+    "release_date": "5/29/2002",
+    "director": "Liane Smellie",
+    "rating": 9.5
+  },
+  {
+    "movie_title": "Earth Girls Are Easy",
+    "genre": "Sci-Fi",
+    "release_date": "2/15/2001",
+    "director": "Umeko Edgars",
+    "rating": 10.0
+  },
+  {
+    "movie_title": "Babylon 5: Thirdspace",
+    "genre": "Drama",
+    "release_date": "12/25/2011",
+    "director": "Kippy Strafford",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "Nocturna",
+    "genre": "Drama",
+    "release_date": "10/29/2002",
+    "director": "Brandais Shucksmith",
+    "rating": 2.7
+  },
+  {
+    "movie_title": "Kung Fu Panda 2",
+    "genre": "Drama",
+    "release_date": "12/21/2009",
+    "director": "Herculie Beincken",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Star!",
+    "genre": "Action",
+    "release_date": "3/7/2004",
+    "director": "Aubrie Kilmartin",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "African Cats",
+    "genre": "Action",
+    "release_date": "7/3/2021",
+    "director": "Rudolph Humphery",
+    "rating": 3.4
+  },
+  {
+    "movie_title": "Vesna va veloce",
+    "genre": "Horror",
+    "release_date": "7/24/2016",
+    "director": "Jennine Havenhand",
+    "rating": 3.2
+  },
+  {
+    "movie_title": "Between Strangers",
+    "genre": "Sci-Fi",
+    "release_date": "9/26/2009",
+    "director": "Ramona Detloff",
+    "rating": 1.7
+  },
+  {
+    "movie_title": "Frozen",
+    "genre": "Horror",
+    "release_date": "7/25/2007",
+    "director": "Allison Moyles",
+    "rating": 1.2
+  },
+  {
+    "movie_title": "Livid (Livide)",
+    "genre": "Comedy",
+    "release_date": "5/10/2004",
+    "director": "Adolphe Syred",
+    "rating": 5.8
+  },
+  {
+    "movie_title": "Meet the Deedles",
+    "genre": "Horror",
+    "release_date": "4/6/2015",
+    "director": "Ezmeralda Mockford",
+    "rating": 2.6
+  },
+  {
+    "movie_title": "Romeo Must Die",
+    "genre": "Action",
+    "release_date": "3/5/2021",
+    "director": "Aubry Merigeau",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Thief of Hearts",
+    "genre": "Sci-Fi",
+    "release_date": "3/12/2010",
+    "director": "Lucho Lunck",
+    "rating": 4.7
+  },
+  {
+    "movie_title": "Agent Cody Banks",
+    "genre": "Sci-Fi",
+    "release_date": "1/24/2000",
+    "director": "Nicolas Sallter",
+    "rating": 7.8
+  },
+  {
+    "movie_title": "Good Neighbours (a.k.a. Good Neighbors)",
+    "genre": "Sci-Fi",
+    "release_date": "4/15/2004",
+    "director": "Mame Boam",
+    "rating": 9.9
+  },
+  {
+    "movie_title": "Dead Leaves",
+    "genre": "Horror",
+    "release_date": "8/31/2014",
+    "director": "Huberto Pedrocco",
+    "rating": 7.2
+  },
+  {
+    "movie_title": "Vinyan",
+    "genre": "Sci-Fi",
+    "release_date": "9/9/2006",
+    "director": "Trey Scoterbosh",
+    "rating": 5.1
+  },
+  {
+    "movie_title": "Sudden Wealth of the Poor People of Kombach, The (Der plötzliche Reichtum der armen Leute von Kombach)",
+    "genre": "Comedy",
+    "release_date": "11/4/2009",
+    "director": "Joshua Gask",
+    "rating": 3.4
+  },
+  {
+    "movie_title": "Doctor Dolittle",
+    "genre": "Sci-Fi",
+    "release_date": "7/21/2020",
+    "director": "Salomo Pine",
+    "rating": 2.0
+  },
+  {
+    "movie_title": "Monster-in-Law",
+    "genre": "Horror",
+    "release_date": "11/22/2009",
+    "director": "Padraic Andreix",
+    "rating": 8.3
+  },
+  {
+    "movie_title": "Roger & Me",
+    "genre": "Comedy",
+    "release_date": "12/21/2012",
+    "director": "Eulalie Danilchev",
+    "rating": 3.6
+  },
+  {
+    "movie_title": "Party Monster",
+    "genre": "Sci-Fi",
+    "release_date": "10/30/2017",
+    "director": "Eleni Oswal",
+    "rating": 6.1
+  },
+  {
+    "movie_title": "Boys Town",
+    "genre": "Sci-Fi",
+    "release_date": "2/11/2007",
+    "director": "Aristotle Busby",
+    "rating": 4.2
+  },
+  {
+    "movie_title": "American, The",
+    "genre": "Sci-Fi",
+    "release_date": "4/9/2013",
+    "director": "Karina Tourot",
+    "rating": 6.6
+  },
+  {
+    "movie_title": "Dante's Inferno: An Animated Epic",
+    "genre": "Horror",
+    "release_date": "2/18/2021",
+    "director": "Ethelind Phizaclea",
+    "rating": 5.7
+  },
+  {
+    "movie_title": "'Round Midnight",
+    "genre": "Action",
+    "release_date": "1/20/2003",
+    "director": "Daphna Beetham",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "Super Bitch",
+    "genre": "Comedy",
+    "release_date": "5/28/2001",
+    "director": "Norean Falkinder",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Tai Chi Zero",
+    "genre": "Comedy",
+    "release_date": "7/11/2003",
+    "director": "Krissy Langland",
+    "rating": 8.5
+  },
+  {
+    "movie_title": "Brotherhood, The",
+    "genre": "Horror",
+    "release_date": "12/29/2000",
+    "director": "Jen Witcher",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "Case for Christ, The",
+    "genre": "Horror",
+    "release_date": "1/12/2002",
+    "director": "Ramsey Rennolds",
+    "rating": 8.4
+  },
+  {
+    "movie_title": "Spy Next Door, The",
+    "genre": "Action",
+    "release_date": "1/2/2009",
+    "director": "Bianka Prout",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "L'homme qui rit",
+    "genre": "Horror",
+    "release_date": "11/27/2012",
+    "director": "Mortie Schruurs",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "Color of Money, The",
+    "genre": "Horror",
+    "release_date": "9/28/2022",
+    "director": "Risa Bonavia",
+    "rating": 4.7
+  },
+  {
+    "movie_title": "The Halloween That Almost Wasn't",
+    "genre": "Drama",
+    "release_date": "4/8/2001",
+    "director": "Nelson Amburgy",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Major and the Minor, The",
+    "genre": "Comedy",
+    "release_date": "11/12/2002",
+    "director": "Enriqueta Battle",
+    "rating": 3.3
+  },
+  {
+    "movie_title": "Unborn in the USA: Inside the War on Abortion",
+    "genre": "Comedy",
+    "release_date": "3/7/2008",
+    "director": "Phoebe Challener",
+    "rating": 3.3
+  },
+  {
+    "movie_title": "PAY 2 PLAY: Democracy's High Stakes",
+    "genre": "Comedy",
+    "release_date": "11/28/2014",
+    "director": "Abagael Pople",
+    "rating": 2.0
+  },
+  {
+    "movie_title": "Welcome to Dongmakgol",
+    "genre": "Sci-Fi",
+    "release_date": "11/19/2017",
+    "director": "Grayce Arrandale",
+    "rating": 3.4
+  },
+  {
+    "movie_title": "Daleks' Invasion Earth: 2150 A.D.",
+    "genre": "Comedy",
+    "release_date": "2/22/2015",
+    "director": "Kai Mockford",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "North West Mounted Police",
+    "genre": "Drama",
+    "release_date": "1/9/2016",
+    "director": "Roshelle Longfut",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "L.A. Without a Map",
+    "genre": "Sci-Fi",
+    "release_date": "6/1/2005",
+    "director": "Essy Absalom",
+    "rating": 4.1
+  },
+  {
+    "movie_title": "Don't Tell Mom the Babysitter's Dead",
+    "genre": "Comedy",
+    "release_date": "3/22/2006",
+    "director": "Stella Deakins",
+    "rating": 2.5
+  },
+  {
+    "movie_title": "Beneath",
+    "genre": "Sci-Fi",
+    "release_date": "3/24/2001",
+    "director": "Zeke Mathevon",
+    "rating": 5.8
+  },
+  {
+    "movie_title": "What Have I Done to Deserve This? (¿Qué he hecho yo para merecer esto!!)",
+    "genre": "Horror",
+    "release_date": "5/13/2012",
+    "director": "Adolph Ganford",
+    "rating": 4.2
+  },
+  {
+    "movie_title": "Price of Forgiveness, The (Ndeysaan)",
+    "genre": "Action",
+    "release_date": "1/3/2017",
+    "director": "Thoma McAlester",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "The Beehive",
+    "genre": "Action",
+    "release_date": "9/24/2004",
+    "director": "Tybie Caltera",
+    "rating": 9.4
+  },
+  {
+    "movie_title": "Satan's Sword 3: The Final Chapter (Daibosatsu toge: Kanketsu-hen)",
+    "genre": "Action",
+    "release_date": "4/13/2004",
+    "director": "Maxi Crooke",
+    "rating": 8.5
+  },
+  {
+    "movie_title": "You're a Good Man, Charlie Brown",
+    "genre": "Action",
+    "release_date": "8/7/2017",
+    "director": "Farah Ogilvie",
+    "rating": 9.3
+  },
+  {
+    "movie_title": "Pillow Book, The",
+    "genre": "Horror",
+    "release_date": "1/17/2014",
+    "director": "Jase Dukes",
+    "rating": 3.0
+  },
+  {
+    "movie_title": "Shadow Riders, The",
+    "genre": "Sci-Fi",
+    "release_date": "7/4/2000",
+    "director": "Vinny Heifer",
+    "rating": 8.4
+  },
+  {
+    "movie_title": "Night in Old Mexico, A",
+    "genre": "Horror",
+    "release_date": "1/23/2020",
+    "director": "Seka Ivashnikov",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "20 Seconds of Joy",
+    "genre": "Comedy",
+    "release_date": "5/31/2021",
+    "director": "Alvera Baford",
+    "rating": 1.9
+  },
+  {
+    "movie_title": "Weird Woman",
+    "genre": "Comedy",
+    "release_date": "11/29/2009",
+    "director": "Sutherlan Boissieux",
+    "rating": 6.5
+  },
+  {
+    "movie_title": "Halloween",
+    "genre": "Drama",
+    "release_date": "1/20/2010",
+    "director": "Liz Smalls",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Birders: The Central Park Effect (Central Park Effect, The)",
+    "genre": "Action",
+    "release_date": "5/23/2000",
+    "director": "Guillaume Moran",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Toys in the Attic",
+    "genre": "Drama",
+    "release_date": "10/20/2009",
+    "director": "Shell Samweyes",
+    "rating": 4.9
+  },
+  {
+    "movie_title": "Human Experience, The",
+    "genre": "Action",
+    "release_date": "11/14/2010",
+    "director": "Ronnica Anstiss",
+    "rating": 5.3
+  },
+  {
+    "movie_title": "Mail Order Bride",
+    "genre": "Horror",
+    "release_date": "8/2/2014",
+    "director": "Rachael Dungey",
+    "rating": 3.3
+  },
+  {
+    "movie_title": "Ong-Bak 3: The Final Battle (Ong Bak 3)",
+    "genre": "Horror",
+    "release_date": "5/7/2004",
+    "director": "Lulita Wylie",
+    "rating": 6.9
+  },
+  {
+    "movie_title": "Wind Across the Everglades",
+    "genre": "Drama",
+    "release_date": "11/30/2020",
+    "director": "Freddie Chelam",
+    "rating": 5.6
+  },
+  {
+    "movie_title": "Wu yen",
+    "genre": "Drama",
+    "release_date": "12/19/2019",
+    "director": "Elisabet Odeson",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Bengazi",
+    "genre": "Sci-Fi",
+    "release_date": "7/19/2008",
+    "director": "Monika Rakestraw",
+    "rating": 1.4
+  },
+  {
+    "movie_title": "Mid-August Lunch (Pranzo di ferragosto)",
+    "genre": "Sci-Fi",
+    "release_date": "9/6/2020",
+    "director": "Theo Glavin",
+    "rating": 1.3
+  },
+  {
+    "movie_title": "Snows of Kilimanjaro, The",
+    "genre": "Drama",
+    "release_date": "4/26/2003",
+    "director": "Banky Keane",
+    "rating": 7.6
+  },
+  {
+    "movie_title": "Max Keeble's Big Move",
+    "genre": "Horror",
+    "release_date": "8/7/2022",
+    "director": "Millie Synnott",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Adonis Factor, The",
+    "genre": "Horror",
+    "release_date": "9/15/2015",
+    "director": "Westbrooke Jaulmes",
+    "rating": 6.9
+  },
+  {
+    "movie_title": "Cool Runnings",
+    "genre": "Sci-Fi",
+    "release_date": "2/6/2015",
+    "director": "Bartholomew Flaunier",
+    "rating": 1.4
+  },
+  {
+    "movie_title": "Tale of the Wind, A (Histoire de vent, Une)",
+    "genre": "Sci-Fi",
+    "release_date": "10/11/2004",
+    "director": "Velma Fryett",
+    "rating": 7.4
+  },
+  {
+    "movie_title": "Grey Gardens",
+    "genre": "Comedy",
+    "release_date": "1/18/2011",
+    "director": "Donalt Faughey",
+    "rating": 2.0
+  },
+  {
+    "movie_title": "Chronicle of an Escape (Crónica de una fuga)",
+    "genre": "Sci-Fi",
+    "release_date": "4/15/2016",
+    "director": "Derrek World",
+    "rating": 7.8
+  },
+  {
+    "movie_title": "The Fourth War",
+    "genre": "Comedy",
+    "release_date": "5/6/2017",
+    "director": "Kent Tomankiewicz",
+    "rating": 6.6
+  },
+  {
+    "movie_title": "Cherry Tree Lane",
+    "genre": "Sci-Fi",
+    "release_date": "2/19/2015",
+    "director": "Todd Malinson",
+    "rating": 8.7
+  },
+  {
+    "movie_title": "Suppose They Gave a War and Nobody Came?",
+    "genre": "Drama",
+    "release_date": "11/7/2014",
+    "director": "Babette Vargas",
+    "rating": 5.8
+  },
+  {
+    "movie_title": "Pigskin Parade",
+    "genre": "Horror",
+    "release_date": "11/27/2010",
+    "director": "Domenic De La Salle",
+    "rating": 8.7
+  },
+  {
+    "movie_title": "Wyvern",
+    "genre": "Action",
+    "release_date": "4/11/2012",
+    "director": "Sianna Larcier",
+    "rating": 2.5
+  },
+  {
+    "movie_title": "Nightmare on Elm Street 2: Freddy's Revenge, A",
+    "genre": "Comedy",
+    "release_date": "11/19/2001",
+    "director": "Derron Fearnside",
+    "rating": 5.8
+  },
+  {
+    "movie_title": "Tough Guise: Violence, Media & the Crisis in Masculinity",
+    "genre": "Horror",
+    "release_date": "9/18/2005",
+    "director": "Alikee Jerwood",
+    "rating": 3.8
+  },
+  {
+    "movie_title": "Two Years at Sea",
+    "genre": "Comedy",
+    "release_date": "5/12/2015",
+    "director": "Cristy Wyon",
+    "rating": 3.7
+  },
+  {
+    "movie_title": "Day & Night",
+    "genre": "Action",
+    "release_date": "3/4/2004",
+    "director": "Veronique Deakan",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "Borrower, The",
+    "genre": "Action",
+    "release_date": "3/24/2008",
+    "director": "Jakob Tivolier",
+    "rating": 7.9
+  },
+  {
+    "movie_title": "People I Know",
+    "genre": "Drama",
+    "release_date": "3/24/2011",
+    "director": "Denver Lackemann",
+    "rating": 3.8
+  },
+  {
+    "movie_title": "Firewalker",
+    "genre": "Horror",
+    "release_date": "11/26/2009",
+    "director": "Hill Bourhill",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Get2Gether, A",
+    "genre": "Sci-Fi",
+    "release_date": "6/23/2005",
+    "director": "Amelia Senter",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "Maze Runner, The",
+    "genre": "Action",
+    "release_date": "5/6/2018",
+    "director": "Felita Fremantle",
+    "rating": 4.8
+  },
+  {
+    "movie_title": "Cruising",
+    "genre": "Action",
+    "release_date": "7/30/2019",
+    "director": "Lothario Stanistrete",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Siam Sunset",
+    "genre": "Sci-Fi",
+    "release_date": "6/17/2016",
+    "director": "Claudius McHaffy",
+    "rating": 8.3
+  },
+  {
+    "movie_title": "To Tulsa and Back: On Tour with J.J. Cale",
+    "genre": "Action",
+    "release_date": "6/28/2007",
+    "director": "Stephine Kydd",
+    "rating": 9.5
+  },
+  {
+    "movie_title": "Porn Theater (Chatte à deux têtes, La)",
+    "genre": "Horror",
+    "release_date": "2/16/2016",
+    "director": "Arnuad Winkett",
+    "rating": 3.1
+  },
+  {
+    "movie_title": "Letter to Elia, A",
+    "genre": "Comedy",
+    "release_date": "8/20/2005",
+    "director": "Renate Hatchard",
+    "rating": 4.8
+  },
+  {
+    "movie_title": "Great Bank Hoax, The",
+    "genre": "Sci-Fi",
+    "release_date": "8/19/2021",
+    "director": "Tisha MacAllister",
+    "rating": 9.7
+  },
+  {
+    "movie_title": "Doors, The",
+    "genre": "Drama",
+    "release_date": "4/27/2010",
+    "director": "Ivette Rampley",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Major League II",
+    "genre": "Comedy",
+    "release_date": "8/4/2013",
+    "director": "Clerc Brickwood",
+    "rating": 8.5
+  },
+  {
+    "movie_title": "Deadly Trackers, The",
+    "genre": "Sci-Fi",
+    "release_date": "3/15/2007",
+    "director": "Lenora Bowden",
+    "rating": 2.5
+  },
+  {
+    "movie_title": "Man on the Train (Homme du train, L')",
+    "genre": "Horror",
+    "release_date": "9/6/2003",
+    "director": "Jorge Balchin",
+    "rating": 1.9
+  },
+  {
+    "movie_title": "Three Times (Zui hao de shi guang)",
+    "genre": "Horror",
+    "release_date": "2/13/2007",
+    "director": "Cristie Annon",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Meet Monica Velour",
+    "genre": "Drama",
+    "release_date": "2/7/2013",
+    "director": "Shaw Libbis",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "American, The",
+    "genre": "Drama",
+    "release_date": "4/4/2004",
+    "director": "Torrence Poundsford",
+    "rating": 5.3
+  },
+  {
+    "movie_title": "Public Eye, The",
+    "genre": "Sci-Fi",
+    "release_date": "1/6/2004",
+    "director": "Emelita Fleckness",
+    "rating": 5.8
+  },
+  {
+    "movie_title": "Burn! (Queimada)",
+    "genre": "Sci-Fi",
+    "release_date": "5/27/2010",
+    "director": "Tobit Slimme",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "Crash Dive",
+    "genre": "Comedy",
+    "release_date": "4/11/2008",
+    "director": "Corbet Goch",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Naked Gun 2 1/2: The Smell of Fear, The",
+    "genre": "Sci-Fi",
+    "release_date": "6/28/2021",
+    "director": "Laurette Schober",
+    "rating": 4.2
+  },
+  {
+    "movie_title": "Crippled Avengers (Can que) (Return of the 5 Deadly Venoms)",
+    "genre": "Action",
+    "release_date": "8/3/2009",
+    "director": "Grady Loveless",
+    "rating": 8.9
+  },
+  {
+    "movie_title": "Hotel",
+    "genre": "Drama",
+    "release_date": "12/10/2000",
+    "director": "Cyrus Szapiro",
+    "rating": 6.7
+  },
+  {
+    "movie_title": "Bringing Up Bobby",
+    "genre": "Comedy",
+    "release_date": "2/17/2008",
+    "director": "Yankee Hartwell",
+    "rating": 4.6
+  },
+  {
+    "movie_title": "Under the Roofs of Paris (Sous les toits de Paris)",
+    "genre": "Horror",
+    "release_date": "1/31/2007",
+    "director": "Theresina Loffel",
+    "rating": 8.0
+  },
+  {
+    "movie_title": "WikiRebels: The Documentary",
+    "genre": "Horror",
+    "release_date": "6/14/2009",
+    "director": "Osbourne Dowles",
+    "rating": 9.7
+  },
+  {
+    "movie_title": "The Crowded Sky",
+    "genre": "Horror",
+    "release_date": "9/7/2014",
+    "director": "Roddie Drew-Clifton",
+    "rating": 2.4
+  },
+  {
+    "movie_title": "Angel Eyes",
+    "genre": "Drama",
+    "release_date": "5/11/2016",
+    "director": "Anselma Veldman",
+    "rating": 4.0
+  },
+  {
+    "movie_title": "Birth of the Living Dead",
+    "genre": "Comedy",
+    "release_date": "3/25/2017",
+    "director": "Wynn Hinksen",
+    "rating": 2.1
+  },
+  {
+    "movie_title": "Squid and the Whale, The",
+    "genre": "Sci-Fi",
+    "release_date": "1/21/2018",
+    "director": "Carolyne Haygreen",
+    "rating": 8.5
+  },
+  {
+    "movie_title": "Ticket To Romance (En enkelt til Korsør)",
+    "genre": "Comedy",
+    "release_date": "10/19/2017",
+    "director": "Finlay Dell Casa",
+    "rating": 6.2
+  },
+  {
+    "movie_title": "WarGames",
+    "genre": "Sci-Fi",
+    "release_date": "2/27/2015",
+    "director": "Land Waddie",
+    "rating": 8.7
+  },
+  {
+    "movie_title": "Diaries of Vaslav Nijinsky, The",
+    "genre": "Comedy",
+    "release_date": "6/10/2012",
+    "director": "Maressa Slayton",
+    "rating": 8.2
+  },
+  {
+    "movie_title": "Bride Wore Black, The (La mariée était en noir)",
+    "genre": "Sci-Fi",
+    "release_date": "3/16/2004",
+    "director": "Lezley Gallegos",
+    "rating": 8.8
+  },
+  {
+    "movie_title": "Dream for an Insomniac",
+    "genre": "Comedy",
+    "release_date": "12/14/2013",
+    "director": "Gerald Schiersch",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "World's End, The",
+    "genre": "Action",
+    "release_date": "2/20/2017",
+    "director": "Bearnard Davitti",
+    "rating": 1.8
+  },
+  {
+    "movie_title": "Scenes of a Sexual Nature",
+    "genre": "Action",
+    "release_date": "3/28/2006",
+    "director": "Annamaria Fenne",
+    "rating": 8.7
+  },
+  {
+    "movie_title": "Closer You Get, The",
+    "genre": "Drama",
+    "release_date": "7/11/2014",
+    "director": "Nobe Meeks",
+    "rating": 2.0
+  },
+  {
+    "movie_title": "Desperate Living",
+    "genre": "Sci-Fi",
+    "release_date": "9/15/2021",
+    "director": "Dian Shotton",
+    "rating": 5.5
+  },
+  {
+    "movie_title": "Draft Day",
+    "genre": "Drama",
+    "release_date": "1/17/2013",
+    "director": "Veriee Poulgreen",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Midnight Meat Train, The",
+    "genre": "Sci-Fi",
+    "release_date": "2/4/2000",
+    "director": "Genvieve Haggarth",
+    "rating": 7.4
+  },
+  {
+    "movie_title": "Manchurian Candidate, The",
+    "genre": "Action",
+    "release_date": "4/1/2008",
+    "director": "Lenette Jobe",
+    "rating": 8.9
+  },
+  {
+    "movie_title": "Lawrence of Arabia",
+    "genre": "Action",
+    "release_date": "11/15/2020",
+    "director": "Sapphira Tynewell",
+    "rating": 5.9
+  },
+  {
+    "movie_title": "Dance of Outlaws (Häätanssi)",
+    "genre": "Horror",
+    "release_date": "4/11/2016",
+    "director": "Ram Malkin",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "Southland Tales",
+    "genre": "Comedy",
+    "release_date": "7/17/2022",
+    "director": "Shelby Bottby",
+    "rating": 2.1
+  },
+  {
+    "movie_title": "Emma",
+    "genre": "Drama",
+    "release_date": "9/17/2001",
+    "director": "Carry Caris",
+    "rating": 2.8
+  },
+  {
+    "movie_title": "Star for Two, A",
+    "genre": "Comedy",
+    "release_date": "7/1/2020",
+    "director": "Bria Padly",
+    "rating": 9.2
+  },
+  {
+    "movie_title": "Blood of Dracula",
+    "genre": "Comedy",
+    "release_date": "10/2/2005",
+    "director": "Felipe Joselovitch",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "Car Bonus (Autobonus)",
+    "genre": "Comedy",
+    "release_date": "11/23/2000",
+    "director": "Lindsey Toy",
+    "rating": 2.4
+  },
+  {
+    "movie_title": "Devil's Rain, The",
+    "genre": "Sci-Fi",
+    "release_date": "8/7/2005",
+    "director": "Barbette Zylbermann",
+    "rating": 6.5
+  },
+  {
+    "movie_title": "Dictator, The",
+    "genre": "Action",
+    "release_date": "11/11/2019",
+    "director": "Layton Cabel",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "Legends of Oz: Dorothy's Return",
+    "genre": "Action",
+    "release_date": "2/10/2010",
+    "director": "Rozamond Liles",
+    "rating": 5.6
+  },
+  {
+    "movie_title": "Man on a Mission: Richard Garriott's Road to the Stars",
+    "genre": "Drama",
+    "release_date": "12/3/2006",
+    "director": "Anita Guess",
+    "rating": 7.0
+  },
+  {
+    "movie_title": "Meshes of the Afternoon",
+    "genre": "Drama",
+    "release_date": "11/16/2013",
+    "director": "Catina Rodolf",
+    "rating": 7.3
+  },
+  {
+    "movie_title": "Hop",
+    "genre": "Comedy",
+    "release_date": "7/8/2010",
+    "director": "Tonnie Crosston",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Wuthering Heights",
+    "genre": "Action",
+    "release_date": "1/10/2001",
+    "director": "Lindon Poyle",
+    "rating": 2.8
+  },
+  {
+    "movie_title": "Kill the Irishman",
+    "genre": "Sci-Fi",
+    "release_date": "1/30/2022",
+    "director": "Taylor Sanday",
+    "rating": 3.1
+  },
+  {
+    "movie_title": "Muppet Christmas: Letters to Santa, A",
+    "genre": "Action",
+    "release_date": "12/7/2022",
+    "director": "Jo Arni",
+    "rating": 3.1
+  },
+  {
+    "movie_title": "Invasion of the Body Snatchers",
+    "genre": "Sci-Fi",
+    "release_date": "7/13/2018",
+    "director": "Hollie Delieu",
+    "rating": 5.0
+  },
+  {
+    "movie_title": "Claim, The",
+    "genre": "Comedy",
+    "release_date": "11/26/2002",
+    "director": "Winnie Guilloux",
+    "rating": 4.7
+  },
+  {
+    "movie_title": "Everybody's Fine (Stanno tutti bene)",
+    "genre": "Action",
+    "release_date": "5/23/2013",
+    "director": "Elenore Breeze",
+    "rating": 2.0
+  },
+  {
+    "movie_title": "Sansho the Bailiff (Sanshô dayû)",
+    "genre": "Comedy",
+    "release_date": "12/3/2004",
+    "director": "Harald Crosthwaite",
+    "rating": 5.3
+  },
+  {
+    "movie_title": "Massacre at Central High",
+    "genre": "Sci-Fi",
+    "release_date": "10/11/2003",
+    "director": "Jule Wythe",
+    "rating": 1.7
+  },
+  {
+    "movie_title": "Carnages (a.k.a. Carnage)",
+    "genre": "Horror",
+    "release_date": "6/5/2022",
+    "director": "Cherice Munslow",
+    "rating": 2.0
+  },
+  {
+    "movie_title": "Sense of History, A",
+    "genre": "Sci-Fi",
+    "release_date": "9/6/2007",
+    "director": "Teresita Dufour",
+    "rating": 7.2
+  },
+  {
+    "movie_title": "Last King of Scotland, The",
+    "genre": "Horror",
+    "release_date": "10/21/2005",
+    "director": "Cassandra Sidlow",
+    "rating": 9.4
+  },
+  {
+    "movie_title": "Resolution",
+    "genre": "Sci-Fi",
+    "release_date": "5/26/2000",
+    "director": "Arnoldo Dealey",
+    "rating": 4.4
+  },
+  {
+    "movie_title": "Of Horses and Men",
+    "genre": "Action",
+    "release_date": "8/4/2013",
+    "director": "Leon Hilbourne",
+    "rating": 8.3
+  },
+  {
+    "movie_title": "Goodbye Charlie",
+    "genre": "Horror",
+    "release_date": "10/22/2007",
+    "director": "Gan Flieger",
+    "rating": 7.7
+  },
+  {
+    "movie_title": "Comet",
+    "genre": "Horror",
+    "release_date": "8/19/2007",
+    "director": "Morgen Vankov",
+    "rating": 5.3
+  },
+  {
+    "movie_title": "Cigarettes and Coffee (Un cartus de kent si un pachet de cafea)",
+    "genre": "Drama",
+    "release_date": "2/8/2015",
+    "director": "Neal Wheeliker",
+    "rating": 8.6
+  },
+  {
+    "movie_title": "Conquest of the Planet of the Apes",
+    "genre": "Horror",
+    "release_date": "7/12/2007",
+    "director": "Lea Astbery",
+    "rating": 6.0
+  },
+  {
+    "movie_title": "Arthur",
+    "genre": "Comedy",
+    "release_date": "12/20/2006",
+    "director": "Nelie Akrigg",
+    "rating": 3.4
+  },
+  {
+    "movie_title": "Madame Rosa (La vie devant soi)",
+    "genre": "Comedy",
+    "release_date": "4/23/2009",
+    "director": "Rafaello Blabey",
+    "rating": 6.6
+  },
+  {
+    "movie_title": "Flame of New Orleans, The",
+    "genre": "Comedy",
+    "release_date": "11/10/2021",
+    "director": "Madlin Blayd",
+    "rating": 7.1
+  },
+  {
+    "movie_title": "Pinocchio",
+    "genre": "Action",
+    "release_date": "11/24/2009",
+    "director": "Rudiger Girk",
+    "rating": 8.1
+  },
+  {
+    "movie_title": "Men at Work",
+    "genre": "Drama",
+    "release_date": "2/3/2006",
+    "director": "Stern Tortoishell",
+    "rating": 4.0
+  },
+  {
+    "movie_title": "Wild in the Country",
+    "genre": "Action",
+    "release_date": "5/10/2000",
+    "director": "Christabella Royal",
+    "rating": 2.6
+  },
+  {
+    "movie_title": "Andy Hardy's Blonde Trouble",
+    "genre": "Horror",
+    "release_date": "10/22/2005",
+    "director": "Theresina Ramsby",
+    "rating": 1.7
+  },
+  {
+    "movie_title": "No Nukes",
+    "genre": "Action",
+    "release_date": "5/12/2006",
+    "director": "Tabbie Standell",
+    "rating": 3.6
+  },
+  {
+    "movie_title": "OKA!",
+    "genre": "Drama",
+    "release_date": "11/5/2004",
+    "director": "Nehemiah Grissett",
+    "rating": 8.0
+  },
+  {
+    "movie_title": "Female Demon Ohyaku (Yôen dokufuden hannya no ohyaku)",
+    "genre": "Sci-Fi",
+    "release_date": "12/13/2020",
+    "director": "Efren Mattityahou",
+    "rating": 7.8
+  },
+  {
+    "movie_title": "Body of Lies",
+    "genre": "Action",
+    "release_date": "12/11/2020",
+    "director": "Estevan Curlis",
+    "rating": 1.1
+  },
+  {
+    "movie_title": "Saving Face",
+    "genre": "Sci-Fi",
+    "release_date": "1/29/2014",
+    "director": "Tedi Kezor",
+    "rating": 7.3
+  },
+  {
+    "movie_title": "Big Steal, The",
+    "genre": "Sci-Fi",
+    "release_date": "2/27/2001",
+    "director": "Latisha McNysche",
+    "rating": 5.7
+  },
+  {
+    "movie_title": "A Summer in La Goulette",
+    "genre": "Action",
+    "release_date": "11/4/2005",
+    "director": "Wendall Dorkins",
+    "rating": 1.9
+  },
+  {
+    "movie_title": "Blackbeard, the Pirate",
+    "genre": "Horror",
+    "release_date": "10/14/2016",
+    "director": "Gunther Rodriguez",
+    "rating": 4.4
+  },
+  {
+    "movie_title": "Tin Pan Alley",
+    "genre": "Drama",
+    "release_date": "9/10/2022",
+    "director": "Durand Pullman",
+    "rating": 8.2
+  },
+  {
+    "movie_title": "Foxes",
+    "genre": "Comedy",
+    "release_date": "7/7/2004",
+    "director": "Claudell Janton",
+    "rating": 4.1
+  },
+  {
+    "movie_title": "Space Odyssey: Voyage to the Planets",
+    "genre": "Horror",
+    "release_date": "10/23/2016",
+    "director": "Cher Fanti",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "Army of Crime (L'armée du crime)",
+    "genre": "Comedy",
+    "release_date": "5/8/2019",
+    "director": "Wat Scarratt",
+    "rating": 4.3
+  },
+  {
+    "movie_title": "Passion of Love (Passione d'amore)",
+    "genre": "Action",
+    "release_date": "9/25/2003",
+    "director": "Fidel Braithwaite",
+    "rating": 6.3
+  },
+  {
+    "movie_title": "Smurfs, The",
+    "genre": "Action",
+    "release_date": "3/1/2013",
+    "director": "Kimberlyn Cutler",
+    "rating": 5.1
+  },
+  {
+    "movie_title": "Game, The",
+    "genre": "Drama",
+    "release_date": "7/23/2001",
+    "director": "Reed MacScherie",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Lost Battalion, The",
+    "genre": "Comedy",
+    "release_date": "8/1/2002",
+    "director": "Carroll Pether",
+    "rating": 7.1
+  },
+  {
+    "movie_title": "Transporter 3",
+    "genre": "Drama",
+    "release_date": "6/2/2008",
+    "director": "Darin Puttick",
+    "rating": 7.1
+  },
+  {
+    "movie_title": "Heart Like a Wheel",
+    "genre": "Drama",
+    "release_date": "2/6/2007",
+    "director": "Jessamine Tutill",
+    "rating": 6.6
+  },
+  {
+    "movie_title": "Fighting",
+    "genre": "Comedy",
+    "release_date": "4/1/2010",
+    "director": "Bink Stevani",
+    "rating": 1.6
+  },
+  {
+    "movie_title": "Force of Evil",
+    "genre": "Sci-Fi",
+    "release_date": "10/25/2021",
+    "director": "Shaine Waddell",
+    "rating": 7.5
+  },
+  {
+    "movie_title": "Calamari Union",
+    "genre": "Horror",
+    "release_date": "1/19/2008",
+    "director": "Rhodie Hallowell",
+    "rating": 4.5
+  },
+  {
+    "movie_title": "House of Games",
+    "genre": "Action",
+    "release_date": "10/3/2020",
+    "director": "Leonid McNae",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Tunnel Rats (1968 Tunnel Rats)",
+    "genre": "Sci-Fi",
+    "release_date": "11/19/2017",
+    "director": "Marja McGraw",
+    "rating": 2.3
+  },
+  {
+    "movie_title": "3some (Castillos de cartón)",
+    "genre": "Sci-Fi",
+    "release_date": "4/15/2009",
+    "director": "Ignaz Gravy",
+    "rating": 7.8
+  },
+  {
+    "movie_title": "Love Without Pity",
+    "genre": "Sci-Fi",
+    "release_date": "12/20/2013",
+    "director": "Jacki Frany",
+    "rating": 2.7
+  },
+  {
+    "movie_title": "Safety Last!",
+    "genre": "Sci-Fi",
+    "release_date": "2/6/2020",
+    "director": "Ricca Servant",
+    "rating": 5.7
+  },
+  {
+    "movie_title": "Burning Bright",
+    "genre": "Horror",
+    "release_date": "5/27/2021",
+    "director": "Broderick Duplan",
+    "rating": 8.2
+  },
+  {
+    "movie_title": "Band Baaja Baaraat",
+    "genre": "Sci-Fi",
+    "release_date": "6/1/2006",
+    "director": "Westbrooke Tregido",
+    "rating": 4.1
+  },
+  {
+    "movie_title": "Gunfighter's Moon",
+    "genre": "Horror",
+    "release_date": "10/4/2005",
+    "director": "Trip Longhorne",
+    "rating": 3.3
+  },
+  {
+    "movie_title": "Mother India",
+    "genre": "Horror",
+    "release_date": "5/10/2020",
+    "director": "Bryana Blasius",
+    "rating": 3.9
+  },
+  {
+    "movie_title": "Against The Sun",
+    "genre": "Action",
+    "release_date": "2/14/2002",
+    "director": "Quinton Robe",
+    "rating": 1.4
+  },
+  {
+    "movie_title": "Dare",
+    "genre": "Action",
+    "release_date": "10/7/2008",
+    "director": "Susannah O'Hannen",
+    "rating": 6.8
+  },
+  {
+    "movie_title": "Eastern Promises",
+    "genre": "Comedy",
+    "release_date": "6/4/2012",
+    "director": "Edwina Slatford",
+    "rating": 4.1
+  },
+  {
+    "movie_title": "Atragon (Kaitei Gunkan)",
+    "genre": "Horror",
+    "release_date": "1/30/2002",
+    "director": "Filberte Tremlett",
+    "rating": 1.7
+  },
+  {
+    "movie_title": "Paper Clips",
+    "genre": "Action",
+    "release_date": "12/15/2009",
+    "director": "Leone Crowch",
+    "rating": 5.1
+  },
+  {
+    "movie_title": "John Doe: Vigilante",
+    "genre": "Drama",
+    "release_date": "6/6/2001",
+    "director": "Godfry Gandy",
+    "rating": 2.5
+  },
+  {
+    "movie_title": "Heart in Winter, A (Un coeur en hiver)",
+    "genre": "Comedy",
+    "release_date": "4/18/2020",
+    "director": "Carena Thacke",
+    "rating": 6.5
+  },
+  {
+    "movie_title": "The Lost Prince",
+    "genre": "Horror",
+    "release_date": "2/23/2015",
+    "director": "Berkie Gerardin",
+    "rating": 7.7
+  },
+  {
+    "movie_title": "Neverwhere",
+    "genre": "Comedy",
+    "release_date": "5/17/2003",
+    "director": "Emmy Myford",
+    "rating": 9.8
+  },
+  {
+    "movie_title": "Tyler Perry's The Single Moms Club",
+    "genre": "Action",
+    "release_date": "3/11/2010",
+    "director": "Dewitt Doorbar",
+    "rating": 10.0
+  },
+  {
+    "movie_title": "Gore Gore Girls, The",
+    "genre": "Horror",
+    "release_date": "7/18/2011",
+    "director": "Sarine McGillivray",
+    "rating": 6.8
+  },
+  {
+    "movie_title": "IMAX: Coral Reef Adventure",
+    "genre": "Comedy",
+    "release_date": "9/29/2015",
+    "director": "Georg Stollenwerck",
+    "rating": 2.9
+  },
+  {
+    "movie_title": "Mourning Forest, The (Mogari no mori)",
+    "genre": "Comedy",
+    "release_date": "11/29/2018",
+    "director": "Ami Simonin",
+    "rating": 9.6
+  },
+  {
+    "movie_title": "Battle in Seattle",
+    "genre": "Comedy",
+    "release_date": "5/29/2019",
+    "director": "Hyman Ledwich",
+    "rating": 2.5
+  },
+  {
+    "movie_title": "Evangelion: 3.0 You Can (Not) Redo",
+    "genre": "Comedy",
+    "release_date": "6/9/2003",
+    "director": "Darrel Waddington",
+    "rating": 8.2
+  },
+  {
+    "movie_title": "Metalstorm: The Destruction of Jared-Syn",
+    "genre": "Action",
+    "release_date": "5/1/2017",
+    "director": "Yalonda Crowhurst",
+    "rating": 3.8
+  },
+  {
+    "movie_title": "Last House on the Left, The",
+    "genre": "Sci-Fi",
+    "release_date": "10/21/2019",
+    "director": "Merrilee Powys",
+    "rating": 1.3
+  }
+]
+
